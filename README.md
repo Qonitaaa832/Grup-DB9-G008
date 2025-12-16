@@ -1,5 +1,5 @@
 
-# E-Commerce-Dashboard ✨
+# Grup DB9-G008 ✨
 
 ## Setup Environment - Anaconda
 
@@ -10,8 +10,8 @@ pip install -r requirements.txt
 
 ## Setup Environment - Shell/Terminal
 
-mkdir bike-sharing-dashboard-master
-cd bike-sharing-dashboard-master
+mkdir master
+cd master
 pipenv install
 pipenv shell
 pip install -r requirements.txt
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 
-# E-Commerce-Dashboard ✨
+# ✨
 
 ## Setup Environment - Anaconda
 
@@ -29,8 +29,8 @@ pip install -r requirements.txt
 
 ## Setup Environment - Shell/Terminal
 
-mkdir bike-sharing-dashboard-master
-cd bike-sharing-dashboard-master
+mkdir 
+cd 
 pipenv install
 pipenv shell
 pip install -r requirements.txt
