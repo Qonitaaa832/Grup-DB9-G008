@@ -1,0 +1,1369 @@
+year,province,vocational_major,skill_name,total_demand,avg_salary_offered,total_supply,certification_rate,SGI,status_gap,cluster_label
+2023,Aceh,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2060,11350634,1301,0.47,0.3684466019417475,Waspada,0
+2023,Aceh,Teknik Komputer & Jaringan (TKJ),Cyber Security,2295,9104572,739,0.63,0.677995642701525,Kritis,0
+2023,Aceh,Rekayasa Perangkat Lunak (RPL),Web Development,2838,7034489,1639,0.43,0.4224806201550387,Waspada,0
+2023,Aceh,Rekayasa Perangkat Lunak (RPL),Data Analytics,1666,12004212,1938,0.42,-0.1632653061224489,Surplus,1
+2023,Aceh,Teknik Otomasi Industri (TOI),Otomasi Industri,1330,9323669,1482,0.43,-0.1142857142857142,Surplus,0
+2023,Aceh,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1969,6566891,1865,0.59,0.052818689690198,Waspada,0
+2023,Aceh,Teknik Logistik,Supply Chain Digital,2415,4903355,1434,0.74,0.4062111801242236,Waspada,0
+2023,Aceh,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2384,10464789,2122,0.79,0.1098993288590604,Waspada,0
+2023,Aceh,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1947,10543066,1654,0.51,0.1504879301489471,Waspada,0
+2023,Aceh,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2282,10913790,2687,0.66,-0.177475898334794,Surplus,1
+2023,Aceh,Multimedia/DKV,Desain Grafis & UI/UX,3247,9521339,1746,0.72,0.4622728672620881,Waspada,0
+2023,Aceh,Multimedia/DKV,Content Creation,2175,8075709,2278,0.37,-0.0473563218390804,Surplus,0
+2023,Sumatera Utara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1762,13042680,1076,0.71,0.3893303064699205,Waspada,0
+2023,Sumatera Utara,Teknik Komputer & Jaringan (TKJ),Cyber Security,1846,10299720,1890,0.46,-0.0238353196099674,Surplus,0
+2023,Sumatera Utara,Rekayasa Perangkat Lunak (RPL),Web Development,3414,11440913,690,0.65,0.7978910369068541,Kritis,0
+2023,Sumatera Utara,Rekayasa Perangkat Lunak (RPL),Data Analytics,1800,8185659,1877,0.71,-0.0427777777777777,Surplus,0
+2023,Sumatera Utara,Teknik Otomasi Industri (TOI),Otomasi Industri,3261,6265689,2708,0.58,0.1695798834713278,Waspada,0
+2023,Sumatera Utara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2563,8856518,1245,0.42,0.5142411236831838,Kritis,0
+2023,Sumatera Utara,Teknik Logistik,Supply Chain Digital,1975,11197986,1394,0.62,0.2941772151898734,Waspada,0
+2023,Sumatera Utara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3453,6670928,2540,0.75,0.2644077613669273,Waspada,0
+2023,Sumatera Utara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3155,11049859,3064,0.58,0.0288431061806656,Waspada,0
+2023,Sumatera Utara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2221,7105413,2017,0.82,0.0918505177847816,Waspada,0
+2023,Sumatera Utara,Multimedia/DKV,Desain Grafis & UI/UX,2329,10358019,3828,0.82,-0.643623872906827,Surplus,1
+2023,Sumatera Utara,Multimedia/DKV,Content Creation,2700,8384702,2497,0.84,0.0751851851851851,Waspada,0
+2023,Sumatera Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2779,13385377,1801,0.73,0.3519251529327096,Waspada,0
+2023,Sumatera Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,1401,6071741,1027,0.64,0.2669521770164168,Waspada,0
+2023,Sumatera Barat,Rekayasa Perangkat Lunak (RPL),Web Development,2195,5846797,1810,0.6,0.1753986332574031,Waspada,0
+2023,Sumatera Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,2015,5364685,1696,0.45,0.1583126550868486,Waspada,0
+2023,Sumatera Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,2475,5807293,2239,0.57,0.0953535353535353,Waspada,0
+2023,Sumatera Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1537,7504238,2946,0.61,-0.9167208848405984,Surplus,1
+2023,Sumatera Barat,Teknik Logistik,Supply Chain Digital,2276,8294679,1760,0.53,0.226713532513181,Waspada,0
+2023,Sumatera Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3464,11523771,2488,0.78,0.2817551963048499,Waspada,0
+2023,Sumatera Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1579,6085160,2959,0.58,-0.8739708676377455,Surplus,1
+2023,Sumatera Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2380,10880526,1603,0.76,0.3264705882352941,Waspada,0
+2023,Sumatera Barat,Multimedia/DKV,Desain Grafis & UI/UX,1264,4848984,4161,0.64,-2.291930379746836,Surplus,1
+2023,Sumatera Barat,Multimedia/DKV,Content Creation,2567,6304384,2046,0.59,0.2029606544604597,Waspada,0
+2023,Riau,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3227,7030919,981,0.4,0.6960024790827394,Kritis,0
+2023,Riau,Teknik Komputer & Jaringan (TKJ),Cyber Security,2695,6537095,724,0.35,0.7313543599257885,Kritis,0
+2023,Riau,Rekayasa Perangkat Lunak (RPL),Web Development,2898,9580450,868,0.77,0.7004830917874396,Kritis,0
+2023,Riau,Rekayasa Perangkat Lunak (RPL),Data Analytics,1578,7031785,1876,0.47,-0.1888466413181242,Surplus,1
+2023,Riau,Teknik Otomasi Industri (TOI),Otomasi Industri,3478,8653339,2598,0.79,0.2530189764232317,Waspada,0
+2023,Riau,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3382,5796107,1442,0.37,0.5736250739207569,Kritis,0
+2023,Riau,Teknik Logistik,Supply Chain Digital,1702,8547389,1942,0.66,-0.1410105757931845,Surplus,0
+2023,Riau,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2951,12788004,1286,0.72,0.5642155201626567,Kritis,0
+2023,Riau,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3346,11045035,3205,0.59,0.0421398684997011,Waspada,0
+2023,Riau,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3095,10315989,2372,0.37,0.2336025848142164,Waspada,0
+2023,Riau,Multimedia/DKV,Desain Grafis & UI/UX,2770,5291234,4287,0.7,-0.5476534296028881,Surplus,1
+2023,Riau,Multimedia/DKV,Content Creation,2685,10201218,4249,0.67,-0.5824953445065177,Surplus,1
+2023,Jambi,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2228,11714550,829,0.53,0.6279174147217235,Kritis,0
+2023,Jambi,Teknik Komputer & Jaringan (TKJ),Cyber Security,1597,11706726,775,0.52,0.514715090795241,Kritis,0
+2023,Jambi,Rekayasa Perangkat Lunak (RPL),Web Development,1592,12358158,1670,0.46,-0.0489949748743718,Surplus,0
+2023,Jambi,Rekayasa Perangkat Lunak (RPL),Data Analytics,3081,13311017,686,0.75,0.777345017851347,Kritis,0
+2023,Jambi,Teknik Otomasi Industri (TOI),Otomasi Industri,2684,5569598,2186,0.85,0.1855439642324888,Waspada,0
+2023,Jambi,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2063,12771379,1263,0.85,0.3877847794474067,Waspada,0
+2023,Jambi,Teknik Logistik,Supply Chain Digital,2220,8056415,2511,0.5,-0.131081081081081,Surplus,0
+2023,Jambi,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3123,10454237,1646,0.37,0.4729426833173231,Waspada,0
+2023,Jambi,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3478,5773548,3472,0.77,0.0017251293847038,Waspada,0
+2023,Jambi,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2878,11864746,1000,0.38,0.6525364836692147,Kritis,0
+2023,Jambi,Multimedia/DKV,Desain Grafis & UI/UX,1740,11016204,1710,0.73,0.0172413793103448,Waspada,0
+2023,Jambi,Multimedia/DKV,Content Creation,2383,9993542,4386,0.76,-0.8405371380612673,Surplus,1
+2023,Sumatera Selatan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2922,9374293,780,0.73,0.7330595482546202,Kritis,0
+2023,Sumatera Selatan,Teknik Komputer & Jaringan (TKJ),Cyber Security,3019,4843585,1754,0.7,0.4190129181848294,Waspada,0
+2023,Sumatera Selatan,Rekayasa Perangkat Lunak (RPL),Web Development,2797,7339448,1106,0.39,0.6045763317840543,Kritis,0
+2023,Sumatera Selatan,Rekayasa Perangkat Lunak (RPL),Data Analytics,1995,13106461,1487,0.71,0.2546365914786967,Waspada,0
+2023,Sumatera Selatan,Teknik Otomasi Industri (TOI),Otomasi Industri,3181,6001482,2997,0.55,0.0578434454574033,Waspada,0
+2023,Sumatera Selatan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2863,9070070,1413,0.36,0.5064617534055187,Kritis,0
+2023,Sumatera Selatan,Teknik Logistik,Supply Chain Digital,2696,11660006,2098,0.52,0.2218100890207715,Waspada,0
+2023,Sumatera Selatan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3437,7707360,2794,0.67,0.1870817573465231,Waspada,0
+2023,Sumatera Selatan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2608,10695544,4494,0.82,-0.723159509202454,Surplus,1
+2023,Sumatera Selatan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2506,10497469,2313,0.35,0.0770151636073423,Waspada,0
+2023,Sumatera Selatan,Multimedia/DKV,Desain Grafis & UI/UX,2172,10622184,1623,0.61,0.2527624309392265,Waspada,0
+2023,Sumatera Selatan,Multimedia/DKV,Content Creation,2482,7348421,3826,0.69,-0.5414987912973409,Surplus,1
+2023,Bengkulu,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2679,6754109,1742,0.6,0.3497573721537887,Waspada,0
+2023,Bengkulu,Teknik Komputer & Jaringan (TKJ),Cyber Security,2457,12005547,1799,0.47,0.2678062678062678,Waspada,0
+2023,Bengkulu,Rekayasa Perangkat Lunak (RPL),Web Development,1863,11257294,1547,0.38,0.1696188942565754,Waspada,0
+2023,Bengkulu,Rekayasa Perangkat Lunak (RPL),Data Analytics,2831,11209907,941,0.71,0.6676086188625927,Kritis,0
+2023,Bengkulu,Teknik Otomasi Industri (TOI),Otomasi Industri,2336,4839353,1183,0.5,0.4935787671232877,Waspada,0
+2023,Bengkulu,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1763,8160011,1507,0.78,0.1452070334656835,Waspada,0
+2023,Bengkulu,Teknik Logistik,Supply Chain Digital,2836,11872695,2474,0.75,0.1276445698166431,Waspada,0
+2023,Bengkulu,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1898,5613168,1973,0.43,-0.0395152792413066,Surplus,0
+2023,Bengkulu,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1201,8582875,3885,0.8,-2.234804329725229,Surplus,1
+2023,Bengkulu,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2789,12534102,1732,0.64,0.3789888849049839,Waspada,0
+2023,Bengkulu,Multimedia/DKV,Desain Grafis & UI/UX,2959,13458144,4245,0.46,-0.4346062859074011,Surplus,1
+2023,Bengkulu,Multimedia/DKV,Content Creation,2861,6361729,3384,0.46,-0.1828032156588605,Surplus,1
+2023,Lampung,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2276,9831595,1157,0.65,0.4916520210896309,Waspada,0
+2023,Lampung,Teknik Komputer & Jaringan (TKJ),Cyber Security,2895,13870277,1349,0.56,0.5340241796200346,Kritis,0
+2023,Lampung,Rekayasa Perangkat Lunak (RPL),Web Development,2639,5919043,1497,0.41,0.4327396741189844,Waspada,0
+2023,Lampung,Rekayasa Perangkat Lunak (RPL),Data Analytics,1402,11903230,868,0.71,0.3808844507845934,Waspada,0
+2023,Lampung,Teknik Otomasi Industri (TOI),Otomasi Industri,1493,7358231,1543,0.57,-0.0334896182183523,Surplus,0
+2023,Lampung,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1397,6461909,2033,0.76,-0.4552612741589119,Surplus,1
+2023,Lampung,Teknik Logistik,Supply Chain Digital,3130,4910078,2589,0.39,0.1728434504792332,Waspada,0
+2023,Lampung,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3391,6808187,1159,0.61,0.6582129165437924,Kritis,0
+2023,Lampung,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1386,6948815,3301,0.71,-1.3816738816738816,Surplus,1
+2023,Lampung,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2994,9306259,2011,0.5,0.3283233132932531,Waspada,0
+2023,Lampung,Multimedia/DKV,Desain Grafis & UI/UX,3155,8935314,2769,0.63,0.1223454833597464,Waspada,0
+2023,Lampung,Multimedia/DKV,Content Creation,2569,6407618,2553,0.41,0.0062281043207473,Waspada,0
+2023,Kep. Bangka Belitung,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2734,9136787,1353,0.74,0.5051207022677395,Kritis,0
+2023,Kep. Bangka Belitung,Teknik Komputer & Jaringan (TKJ),Cyber Security,2934,4871295,1617,0.55,0.4488752556237219,Waspada,0
+2023,Kep. Bangka Belitung,Rekayasa Perangkat Lunak (RPL),Web Development,1840,10051035,1917,0.49,-0.0418478260869565,Surplus,0
+2023,Kep. Bangka Belitung,Rekayasa Perangkat Lunak (RPL),Data Analytics,3169,6826793,1201,0.76,0.6210160934048595,Kritis,0
+2023,Kep. Bangka Belitung,Teknik Otomasi Industri (TOI),Otomasi Industri,2834,13336326,2662,0.38,0.0606916019760056,Waspada,0
+2023,Kep. Bangka Belitung,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2987,8304473,2739,0.55,0.083026447941078,Waspada,0
+2023,Kep. Bangka Belitung,Teknik Logistik,Supply Chain Digital,1823,7004664,2464,0.35,-0.3516182117388919,Surplus,1
+2023,Kep. Bangka Belitung,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2080,5486976,2017,0.74,0.0302884615384615,Waspada,0
+2023,Kep. Bangka Belitung,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2527,7272189,4213,0.49,-0.667194301543332,Surplus,1
+2023,Kep. Bangka Belitung,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1652,13306404,1293,0.8,0.2173123486682808,Waspada,0
+2023,Kep. Bangka Belitung,Multimedia/DKV,Desain Grafis & UI/UX,2383,6041082,3166,0.77,-0.3285774234158624,Surplus,1
+2023,Kep. Bangka Belitung,Multimedia/DKV,Content Creation,3256,11361000,4440,0.52,-0.3636363636363636,Surplus,1
+2023,Kep. Riau,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2882,8474515,1260,0.72,0.5628036086051353,Kritis,0
+2023,Kep. Riau,Teknik Komputer & Jaringan (TKJ),Cyber Security,3399,9315488,1417,0.82,0.5831126802000588,Kritis,0
+2023,Kep. Riau,Rekayasa Perangkat Lunak (RPL),Web Development,1827,13856842,1060,0.53,0.4198139025725232,Waspada,0
+2023,Kep. Riau,Rekayasa Perangkat Lunak (RPL),Data Analytics,2848,11124167,1743,0.63,0.3879915730337078,Waspada,0
+2023,Kep. Riau,Teknik Otomasi Industri (TOI),Otomasi Industri,5550,11132429,2697,0.51,0.514054054054054,Kritis,0
+2023,Kep. Riau,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2736,18741447,1611,0.8,0.4111842105263157,Waspada,2
+2023,Kep. Riau,Teknik Logistik,Supply Chain Digital,3051,22567847,1818,0.57,0.4041297935103244,Waspada,2
+2023,Kep. Riau,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,5661,19167909,1176,0.54,0.7922628510863805,Kritis,2
+2023,Kep. Riau,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3084,7599487,3886,0.83,-0.2600518806744488,Surplus,1
+2023,Kep. Riau,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2077,12783441,2444,0.41,-0.1766971593644679,Surplus,1
+2023,Kep. Riau,Multimedia/DKV,Desain Grafis & UI/UX,2156,11728040,2205,0.6,-0.0227272727272727,Surplus,0
+2023,Kep. Riau,Multimedia/DKV,Content Creation,1360,12128141,2892,0.82,-1.126470588235294,Surplus,1
+2023,DKI Jakarta,Teknik Komputer & Jaringan (TKJ),Cloud Computing,6000,15619015,1788,0.7,0.702,Kritis,0
+2023,DKI Jakarta,Teknik Komputer & Jaringan (TKJ),Cyber Security,6544,23842096,1238,0.42,0.8108190709046454,Kritis,2
+2023,DKI Jakarta,Rekayasa Perangkat Lunak (RPL),Web Development,6276,27674126,1786,0.71,0.7154238368387508,Kritis,2
+2023,DKI Jakarta,Rekayasa Perangkat Lunak (RPL),Data Analytics,5803,25568601,1323,0.44,0.7720144752714113,Kritis,2
+2023,DKI Jakarta,Teknik Otomasi Industri (TOI),Otomasi Industri,1839,12970528,2559,0.73,-0.3915171288743883,Surplus,1
+2023,DKI Jakarta,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1659,9101754,2808,0.69,-0.6925858951175407,Surplus,1
+2023,DKI Jakarta,Teknik Logistik,Supply Chain Digital,1669,6783509,1792,0.5,-0.0736968244457759,Surplus,0
+2023,DKI Jakarta,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2893,6321701,1532,0.59,0.4704459039059799,Waspada,0
+2023,DKI Jakarta,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3477,10905525,4119,0.67,-0.1846419327006039,Surplus,1
+2023,DKI Jakarta,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2999,8238618,1809,0.4,0.3967989329776592,Waspada,0
+2023,DKI Jakarta,Multimedia/DKV,Desain Grafis & UI/UX,1425,7257184,3787,0.83,-1.6575438596491228,Surplus,1
+2023,DKI Jakarta,Multimedia/DKV,Content Creation,2159,8606688,2308,0.78,-0.0690134321445113,Surplus,0
+2023,Jawa Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1652,12065795,1545,0.58,0.0647699757869249,Waspada,0
+2023,Jawa Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,1746,8841776,1742,0.67,0.0022909507445589,Waspada,0
+2023,Jawa Barat,Rekayasa Perangkat Lunak (RPL),Web Development,1216,9930397,796,0.53,0.3453947368421052,Waspada,0
+2023,Jawa Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,2269,8244084,1229,0.78,0.4583516967827237,Waspada,0
+2023,Jawa Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,7026,24736847,2036,0.56,0.7102191858810134,Kritis,2
+2023,Jawa Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),6232,27971960,1396,0.56,0.77599486521181,Kritis,2
+2023,Jawa Barat,Teknik Logistik,Supply Chain Digital,2898,27938194,1897,0.46,0.3454106280193236,Waspada,2
+2023,Jawa Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3987,23130710,1328,0.78,0.6669174818159017,Kritis,2
+2023,Jawa Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2339,11157182,4267,0.79,-0.8242838820008551,Surplus,1
+2023,Jawa Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2180,7015167,2123,0.69,0.0261467889908256,Waspada,0
+2023,Jawa Barat,Multimedia/DKV,Desain Grafis & UI/UX,1327,11642385,3294,0.37,-1.482290881688018,Surplus,1
+2023,Jawa Barat,Multimedia/DKV,Content Creation,3016,5488105,4392,0.42,-0.4562334217506631,Surplus,1
+2023,Jawa Tengah,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2958,6789173,1485,0.41,0.497971602434077,Waspada,0
+2023,Jawa Tengah,Teknik Komputer & Jaringan (TKJ),Cyber Security,1769,6214466,1316,0.51,0.2560768795929904,Waspada,0
+2023,Jawa Tengah,Rekayasa Perangkat Lunak (RPL),Web Development,3095,5245101,1260,0.55,0.592891760904685,Kritis,0
+2023,Jawa Tengah,Rekayasa Perangkat Lunak (RPL),Data Analytics,1825,12213023,966,0.58,0.4706849315068493,Waspada,0
+2023,Jawa Tengah,Teknik Otomasi Industri (TOI),Otomasi Industri,2886,5905534,2088,0.8,0.2765072765072765,Waspada,0
+2023,Jawa Tengah,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1354,9153127,2275,0.37,-0.6802067946824224,Surplus,1
+2023,Jawa Tengah,Teknik Logistik,Supply Chain Digital,1445,5298863,2548,0.38,-0.7633217993079585,Surplus,1
+2023,Jawa Tengah,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2700,8095990,1117,0.74,0.5862962962962963,Kritis,0
+2023,Jawa Tengah,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1737,11326818,2346,0.48,-0.3506044905008635,Surplus,1
+2023,Jawa Tengah,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3041,13985687,1052,0.69,0.6540611640907597,Kritis,0
+2023,Jawa Tengah,Multimedia/DKV,Desain Grafis & UI/UX,1724,10291590,3822,0.54,-1.216937354988399,Surplus,1
+2023,Jawa Tengah,Multimedia/DKV,Content Creation,1235,10899628,4222,0.77,-2.4186234817813763,Surplus,1
+2023,DI Yogyakarta,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2925,27254323,1866,0.41,0.362051282051282,Waspada,2
+2023,DI Yogyakarta,Teknik Komputer & Jaringan (TKJ),Cyber Security,3837,32730216,1404,0.37,0.63408913213448,Kritis,2
+2023,DI Yogyakarta,Rekayasa Perangkat Lunak (RPL),Web Development,5678,17529050,900,0.55,0.8414934836209933,Kritis,2
+2023,DI Yogyakarta,Rekayasa Perangkat Lunak (RPL),Data Analytics,4879,21561213,660,0.8,0.8647263783562206,Kritis,2
+2023,DI Yogyakarta,Teknik Otomasi Industri (TOI),Otomasi Industri,3182,8175957,1883,0.35,0.4082338152105594,Waspada,0
+2023,DI Yogyakarta,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1250,8039576,1170,0.79,0.064,Waspada,0
+2023,DI Yogyakarta,Teknik Logistik,Supply Chain Digital,1774,10693309,2401,0.61,-0.3534385569334836,Surplus,1
+2023,DI Yogyakarta,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2348,9049913,1229,0.73,0.4765758091993186,Waspada,0
+2023,DI Yogyakarta,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2915,8303157,1677,0.74,0.4246998284734133,Waspada,0
+2023,DI Yogyakarta,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2795,8997355,2710,0.46,0.0304114490161001,Waspada,0
+2023,DI Yogyakarta,Multimedia/DKV,Desain Grafis & UI/UX,1204,5804646,3940,0.84,-2.272425249169435,Surplus,1
+2023,DI Yogyakarta,Multimedia/DKV,Content Creation,2419,8667500,4227,0.64,-0.7474162877221993,Surplus,1
+2023,Jawa Timur,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2191,5249395,1758,0.74,0.197626654495664,Waspada,0
+2023,Jawa Timur,Teknik Komputer & Jaringan (TKJ),Cyber Security,1246,6060386,1792,0.53,-0.4382022471910112,Surplus,1
+2023,Jawa Timur,Rekayasa Perangkat Lunak (RPL),Web Development,1468,8179569,1588,0.48,-0.0817438692098092,Surplus,0
+2023,Jawa Timur,Rekayasa Perangkat Lunak (RPL),Data Analytics,1835,13411474,1793,0.5,0.0228882833787465,Waspada,0
+2023,Jawa Timur,Teknik Otomasi Industri (TOI),Otomasi Industri,3897,13538093,1032,0.72,0.7351809083910701,Kritis,0
+2023,Jawa Timur,Teknik Otomasi Industri (TOI),Internet of Things (IoT),4263,23351384,1518,0.52,0.6439127375087966,Kritis,2
+2023,Jawa Timur,Teknik Logistik,Supply Chain Digital,4790,13068900,2661,0.64,0.4444676409185804,Waspada,0
+2023,Jawa Timur,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,5394,27336363,1719,0.5,0.6813125695216907,Kritis,2
+2023,Jawa Timur,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1316,4983062,2224,0.62,-0.6899696048632219,Surplus,1
+2023,Jawa Timur,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2350,7641992,2251,0.77,0.042127659574468,Waspada,0
+2023,Jawa Timur,Multimedia/DKV,Desain Grafis & UI/UX,3131,10895929,2184,0.62,0.3024592781858831,Waspada,0
+2023,Jawa Timur,Multimedia/DKV,Content Creation,1833,5603328,2662,0.74,-0.4522640480087289,Surplus,1
+2023,Banten,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2319,5329525,1123,0.5,0.5157395429064252,Kritis,0
+2023,Banten,Teknik Komputer & Jaringan (TKJ),Cyber Security,1759,4976615,1344,0.55,0.2359295054007959,Waspada,0
+2023,Banten,Rekayasa Perangkat Lunak (RPL),Web Development,2096,12274447,1067,0.8,0.4909351145038167,Waspada,0
+2023,Banten,Rekayasa Perangkat Lunak (RPL),Data Analytics,2412,8499391,1916,0.46,0.2056384742951907,Waspada,0
+2023,Banten,Teknik Otomasi Industri (TOI),Otomasi Industri,2670,13729860,1609,0.65,0.397378277153558,Waspada,0
+2023,Banten,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3494,8412610,2228,0.72,0.3623354321694333,Waspada,0
+2023,Banten,Teknik Logistik,Supply Chain Digital,1353,6964367,1470,0.69,-0.0864745011086474,Surplus,0
+2023,Banten,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2196,13544220,1515,0.83,0.3101092896174863,Waspada,0
+2023,Banten,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2443,6548014,2088,0.47,0.1453131395824805,Waspada,0
+2023,Banten,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2208,7088627,2847,0.85,-0.2894021739130434,Surplus,1
+2023,Banten,Multimedia/DKV,Desain Grafis & UI/UX,1652,11317963,2149,0.67,-0.3008474576271186,Surplus,1
+2023,Banten,Multimedia/DKV,Content Creation,3465,11868121,4234,0.39,-0.2219336219336219,Surplus,1
+2023,Bali,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1750,10498848,800,0.45,0.5428571428571428,Kritis,0
+2023,Bali,Teknik Komputer & Jaringan (TKJ),Cyber Security,2957,10538852,1373,0.45,0.5356780520798107,Kritis,0
+2023,Bali,Rekayasa Perangkat Lunak (RPL),Web Development,3270,9884921,884,0.8,0.7296636085626911,Kritis,0
+2023,Bali,Rekayasa Perangkat Lunak (RPL),Data Analytics,2981,8493305,1331,0.74,0.5535055350553506,Kritis,0
+2023,Bali,Teknik Otomasi Industri (TOI),Otomasi Industri,2831,9185536,2324,0.49,0.1790886612504415,Waspada,0
+2023,Bali,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2215,6389228,1460,0.76,0.3408577878103837,Waspada,0
+2023,Bali,Teknik Logistik,Supply Chain Digital,1715,5900567,2383,0.8,-0.3895043731778426,Surplus,1
+2023,Bali,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1535,12506358,1862,0.69,-0.213029315960912,Surplus,1
+2023,Bali,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1696,4849115,2235,0.75,-0.3178066037735849,Surplus,1
+2023,Bali,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,6704,17669590,2710,0.81,0.595763723150358,Kritis,2
+2023,Bali,Multimedia/DKV,Desain Grafis & UI/UX,2887,10757515,1822,0.71,0.3688950467613439,Waspada,0
+2023,Bali,Multimedia/DKV,Content Creation,2768,10046880,3888,0.8,-0.4046242774566474,Surplus,1
+2023,Nusa Tenggara Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2156,6204330,967,0.69,0.5514842300556586,Kritis,0
+2023,Nusa Tenggara Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,2836,8835851,1165,0.42,0.5892101551480959,Kritis,0
+2023,Nusa Tenggara Barat,Rekayasa Perangkat Lunak (RPL),Web Development,2640,6855723,652,0.6,0.753030303030303,Kritis,0
+2023,Nusa Tenggara Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,1484,7776242,884,0.57,0.4043126684636118,Waspada,0
+2023,Nusa Tenggara Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,1953,7448790,2589,0.56,-0.325652841781874,Surplus,1
+2023,Nusa Tenggara Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1289,9633177,1421,0.61,-0.1024049650892164,Surplus,0
+2023,Nusa Tenggara Barat,Teknik Logistik,Supply Chain Digital,2825,8153597,1014,0.53,0.6410619469026548,Kritis,0
+2023,Nusa Tenggara Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1617,7397480,2145,0.69,-0.3265306122448979,Surplus,1
+2023,Nusa Tenggara Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2025,10918900,2178,0.66,-0.0755555555555555,Surplus,0
+2023,Nusa Tenggara Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2849,4957164,2597,0.75,0.0884520884520884,Waspada,0
+2023,Nusa Tenggara Barat,Multimedia/DKV,Desain Grafis & UI/UX,1612,5331831,1813,0.62,-0.1246898263027295,Surplus,0
+2023,Nusa Tenggara Barat,Multimedia/DKV,Content Creation,1928,8169720,1951,0.57,-0.0119294605809128,Surplus,0
+2023,Nusa Tenggara Timur,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1875,11922313,1792,0.63,0.0442666666666666,Waspada,0
+2023,Nusa Tenggara Timur,Teknik Komputer & Jaringan (TKJ),Cyber Security,3092,7440328,1651,0.57,0.4660413971539456,Waspada,0
+2023,Nusa Tenggara Timur,Rekayasa Perangkat Lunak (RPL),Web Development,3439,12126434,1593,0.8,0.536783948822332,Kritis,0
+2023,Nusa Tenggara Timur,Rekayasa Perangkat Lunak (RPL),Data Analytics,2322,8770001,1052,0.77,0.5469422911283376,Kritis,0
+2023,Nusa Tenggara Timur,Teknik Otomasi Industri (TOI),Otomasi Industri,2208,8922263,2775,0.85,-0.2567934782608695,Surplus,1
+2023,Nusa Tenggara Timur,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1236,6155531,1049,0.78,0.151294498381877,Waspada,0
+2023,Nusa Tenggara Timur,Teknik Logistik,Supply Chain Digital,2748,11790102,2691,0.68,0.0207423580786026,Waspada,0
+2023,Nusa Tenggara Timur,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3464,11506024,2704,0.45,0.2193995381062355,Waspada,0
+2023,Nusa Tenggara Timur,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3021,5698320,4335,0.6,-0.4349553128103277,Surplus,1
+2023,Nusa Tenggara Timur,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3309,6807635,1695,0.71,0.4877606527651859,Waspada,0
+2023,Nusa Tenggara Timur,Multimedia/DKV,Desain Grafis & UI/UX,3103,8064908,3169,0.61,-0.0212697389622945,Surplus,0
+2023,Nusa Tenggara Timur,Multimedia/DKV,Content Creation,1898,11286460,3532,0.48,-0.8609062170706007,Surplus,1
+2023,Kalimantan Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1275,8421581,1705,0.81,-0.3372549019607843,Surplus,1
+2023,Kalimantan Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,2050,8399865,851,0.46,0.5848780487804878,Kritis,0
+2023,Kalimantan Barat,Rekayasa Perangkat Lunak (RPL),Web Development,2590,10182287,749,0.36,0.7108108108108108,Kritis,0
+2023,Kalimantan Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,2084,12790340,1052,0.75,0.4952015355086372,Waspada,0
+2023,Kalimantan Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,1595,7117336,2594,0.53,-0.6263322884012539,Surplus,1
+2023,Kalimantan Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2692,8588340,2296,0.83,0.1471025260029717,Waspada,0
+2023,Kalimantan Barat,Teknik Logistik,Supply Chain Digital,2367,7186488,1244,0.83,0.474440219687368,Waspada,0
+2023,Kalimantan Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2262,10651244,1929,0.73,0.1472148541114058,Waspada,0
+2023,Kalimantan Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2265,11637433,3246,0.78,-0.433112582781457,Surplus,1
+2023,Kalimantan Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1833,5333636,1477,0.71,0.1942171303873431,Waspada,0
+2023,Kalimantan Barat,Multimedia/DKV,Desain Grafis & UI/UX,2438,7076360,2241,0.47,0.0808039376538146,Waspada,0
+2023,Kalimantan Barat,Multimedia/DKV,Content Creation,2153,9226219,3675,0.68,-0.706920575940548,Surplus,1
+2023,Kalimantan Tengah,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2742,6132397,770,0.83,0.7191830780452224,Kritis,0
+2023,Kalimantan Tengah,Teknik Komputer & Jaringan (TKJ),Cyber Security,2876,13906824,1139,0.74,0.6039638386648123,Kritis,0
+2023,Kalimantan Tengah,Rekayasa Perangkat Lunak (RPL),Web Development,2417,11703836,705,0.65,0.7083160943318163,Kritis,0
+2023,Kalimantan Tengah,Rekayasa Perangkat Lunak (RPL),Data Analytics,2645,11043669,923,0.35,0.6510396975425331,Kritis,0
+2023,Kalimantan Tengah,Teknik Otomasi Industri (TOI),Otomasi Industri,1699,13115390,2636,0.54,-0.5515008828722778,Surplus,1
+2023,Kalimantan Tengah,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1416,13583148,2179,0.46,-0.5388418079096046,Surplus,1
+2023,Kalimantan Tengah,Teknik Logistik,Supply Chain Digital,2355,10209861,1170,0.37,0.5031847133757962,Kritis,0
+2023,Kalimantan Tengah,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3010,13215398,1169,0.51,0.6116279069767442,Kritis,0
+2023,Kalimantan Tengah,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1290,5248345,1981,0.61,-0.5356589147286822,Surplus,1
+2023,Kalimantan Tengah,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1238,8485501,1943,0.4,-0.5694668820678513,Surplus,1
+2023,Kalimantan Tengah,Multimedia/DKV,Desain Grafis & UI/UX,1372,9784445,2418,0.47,-0.7623906705539358,Surplus,1
+2023,Kalimantan Tengah,Multimedia/DKV,Content Creation,2281,11802587,2022,0.59,0.1135466900482244,Waspada,0
+2023,Kalimantan Selatan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1655,6254908,1739,0.35,-0.0507552870090634,Surplus,0
+2023,Kalimantan Selatan,Teknik Komputer & Jaringan (TKJ),Cyber Security,2094,8119144,1130,0.49,0.4603629417382999,Waspada,0
+2023,Kalimantan Selatan,Rekayasa Perangkat Lunak (RPL),Web Development,3158,10606466,1808,0.85,0.4274857504749841,Waspada,0
+2023,Kalimantan Selatan,Rekayasa Perangkat Lunak (RPL),Data Analytics,3196,10104509,1004,0.85,0.685857321652065,Kritis,0
+2023,Kalimantan Selatan,Teknik Otomasi Industri (TOI),Otomasi Industri,1704,9749499,2695,0.61,-0.5815727699530516,Surplus,1
+2023,Kalimantan Selatan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2023,9208224,1326,0.54,0.3445378151260504,Waspada,0
+2023,Kalimantan Selatan,Teknik Logistik,Supply Chain Digital,2133,10503737,1979,0.4,0.0721987810595405,Waspada,0
+2023,Kalimantan Selatan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1884,9648287,2629,0.81,-0.3954352441613588,Surplus,1
+2023,Kalimantan Selatan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3420,5621052,3972,0.57,-0.1614035087719298,Surplus,0
+2023,Kalimantan Selatan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2014,7025300,2881,0.53,-0.4304865938430983,Surplus,1
+2023,Kalimantan Selatan,Multimedia/DKV,Desain Grafis & UI/UX,1279,6334837,1909,0.85,-0.4925723221266614,Surplus,1
+2023,Kalimantan Selatan,Multimedia/DKV,Content Creation,1402,9726203,2790,0.63,-0.9900142653352354,Surplus,1
+2023,Kalimantan Timur,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2452,5223570,1374,0.56,0.4396411092985318,Waspada,0
+2023,Kalimantan Timur,Teknik Komputer & Jaringan (TKJ),Cyber Security,2755,10021816,1274,0.47,0.5375680580762251,Kritis,0
+2023,Kalimantan Timur,Rekayasa Perangkat Lunak (RPL),Web Development,3294,6914792,1352,0.79,0.5895567698846388,Kritis,0
+2023,Kalimantan Timur,Rekayasa Perangkat Lunak (RPL),Data Analytics,2749,11350670,1577,0.4,0.4263368497635504,Waspada,0
+2023,Kalimantan Timur,Teknik Otomasi Industri (TOI),Otomasi Industri,2596,11725877,2289,0.77,0.1182588597842835,Waspada,0
+2023,Kalimantan Timur,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1670,9918922,2064,0.37,-0.2359281437125748,Surplus,1
+2023,Kalimantan Timur,Teknik Logistik,Supply Chain Digital,2235,11977545,2913,0.83,-0.3033557046979865,Surplus,1
+2023,Kalimantan Timur,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2167,10328983,2301,0.78,-0.0618366405168435,Surplus,0
+2023,Kalimantan Timur,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1867,4960775,4158,0.46,-1.22710230316015,Surplus,1
+2023,Kalimantan Timur,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2345,7467867,2603,0.64,-0.1100213219616204,Surplus,0
+2023,Kalimantan Timur,Multimedia/DKV,Desain Grafis & UI/UX,1289,11455623,2475,0.63,-0.9200930954228084,Surplus,1
+2023,Kalimantan Timur,Multimedia/DKV,Content Creation,1739,8966500,2490,0.61,-0.4318573893041978,Surplus,1
+2023,Kalimantan Utara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1240,13979875,832,0.77,0.3290322580645161,Waspada,0
+2023,Kalimantan Utara,Teknik Komputer & Jaringan (TKJ),Cyber Security,3146,9378238,1385,0.53,0.559758423394787,Kritis,0
+2023,Kalimantan Utara,Rekayasa Perangkat Lunak (RPL),Web Development,2424,8810912,1511,0.8,0.3766501650165016,Waspada,0
+2023,Kalimantan Utara,Rekayasa Perangkat Lunak (RPL),Data Analytics,3236,10362067,749,0.8,0.7685414091470952,Kritis,0
+2023,Kalimantan Utara,Teknik Otomasi Industri (TOI),Otomasi Industri,2124,6400396,1404,0.73,0.3389830508474576,Waspada,0
+2023,Kalimantan Utara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2781,13311010,1790,0.59,0.3563466379000359,Waspada,0
+2023,Kalimantan Utara,Teknik Logistik,Supply Chain Digital,1589,7296081,2422,0.62,-0.5242290748898678,Surplus,1
+2023,Kalimantan Utara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1455,5375278,2132,0.65,-0.4652920962199313,Surplus,1
+2023,Kalimantan Utara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3144,5978049,2328,0.5,0.2595419847328244,Waspada,0
+2023,Kalimantan Utara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1209,11936029,1111,0.78,0.0810587262200165,Waspada,0
+2023,Kalimantan Utara,Multimedia/DKV,Desain Grafis & UI/UX,2076,8114692,2884,0.67,-0.3892100192678227,Surplus,1
+2023,Kalimantan Utara,Multimedia/DKV,Content Creation,2215,11085088,2211,0.38,0.001805869074492,Waspada,0
+2023,Sulawesi Utara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1573,13216320,825,0.79,0.4755244755244755,Waspada,0
+2023,Sulawesi Utara,Teknik Komputer & Jaringan (TKJ),Cyber Security,3393,8712942,1898,0.55,0.4406130268199233,Waspada,0
+2023,Sulawesi Utara,Rekayasa Perangkat Lunak (RPL),Web Development,3424,12268810,1496,0.76,0.5630841121495327,Kritis,0
+2023,Sulawesi Utara,Rekayasa Perangkat Lunak (RPL),Data Analytics,2052,13323838,1938,0.52,0.0555555555555555,Waspada,0
+2023,Sulawesi Utara,Teknik Otomasi Industri (TOI),Otomasi Industri,2440,9801045,1993,0.74,0.1831967213114754,Waspada,0
+2023,Sulawesi Utara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1888,9145760,1535,0.68,0.1869703389830508,Waspada,0
+2023,Sulawesi Utara,Teknik Logistik,Supply Chain Digital,2833,11953768,2858,0.61,-0.0088245675961877,Surplus,0
+2023,Sulawesi Utara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1710,13189012,1432,0.62,0.1625730994152046,Waspada,0
+2023,Sulawesi Utara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1717,6123483,3406,0.5,-0.9836924868957484,Surplus,1
+2023,Sulawesi Utara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3200,7132517,1876,0.37,0.41375,Waspada,0
+2023,Sulawesi Utara,Multimedia/DKV,Desain Grafis & UI/UX,2660,13351881,1879,0.62,0.293609022556391,Waspada,0
+2023,Sulawesi Utara,Multimedia/DKV,Content Creation,1282,10187408,2520,0.35,-0.9656786271450858,Surplus,1
+2023,Sulawesi Tengah,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3101,10995200,1809,0.38,0.4166397936149629,Waspada,0
+2023,Sulawesi Tengah,Teknik Komputer & Jaringan (TKJ),Cyber Security,1250,10358956,1526,0.38,-0.2208,Surplus,1
+2023,Sulawesi Tengah,Rekayasa Perangkat Lunak (RPL),Web Development,1916,5643523,1737,0.45,0.0934237995824634,Waspada,0
+2023,Sulawesi Tengah,Rekayasa Perangkat Lunak (RPL),Data Analytics,2669,8840479,1714,0.5,0.3578119145747471,Waspada,0
+2023,Sulawesi Tengah,Teknik Otomasi Industri (TOI),Otomasi Industri,3281,5986887,2340,0.57,0.2868028040231636,Waspada,0
+2023,Sulawesi Tengah,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2774,13696761,1383,0.35,0.5014419610670512,Kritis,0
+2023,Sulawesi Tengah,Teknik Logistik,Supply Chain Digital,1873,7515514,2838,0.45,-0.5152162306460224,Surplus,1
+2023,Sulawesi Tengah,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1467,9634357,1843,0.46,-0.256305385139741,Surplus,1
+2023,Sulawesi Tengah,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1435,11902173,3801,0.67,-1.648780487804878,Surplus,1
+2023,Sulawesi Tengah,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1962,9692472,2192,0.77,-0.1172273190621814,Surplus,0
+2023,Sulawesi Tengah,Multimedia/DKV,Desain Grafis & UI/UX,1823,10980142,3549,0.65,-0.9467910038398244,Surplus,1
+2023,Sulawesi Tengah,Multimedia/DKV,Content Creation,2452,8900673,3847,0.51,-0.5689233278955954,Surplus,1
+2023,Sulawesi Selatan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3322,13504434,998,0.48,0.699578567128236,Kritis,0
+2023,Sulawesi Selatan,Teknik Komputer & Jaringan (TKJ),Cyber Security,3350,5127359,1930,0.44,0.4238805970149253,Waspada,0
+2023,Sulawesi Selatan,Rekayasa Perangkat Lunak (RPL),Web Development,1963,5117537,1563,0.52,0.2037697401935812,Waspada,0
+2023,Sulawesi Selatan,Rekayasa Perangkat Lunak (RPL),Data Analytics,2558,9775026,1345,0.75,0.4741985926505082,Waspada,0
+2023,Sulawesi Selatan,Teknik Otomasi Industri (TOI),Otomasi Industri,1646,7373619,2574,0.46,-0.5637910085054678,Surplus,1
+2023,Sulawesi Selatan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1448,12065760,2045,0.55,-0.412292817679558,Surplus,1
+2023,Sulawesi Selatan,Teknik Logistik,Supply Chain Digital,2558,13439483,1660,0.42,0.3510555121188428,Waspada,0
+2023,Sulawesi Selatan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1741,9064694,1271,0.39,0.269959793222286,Waspada,0
+2023,Sulawesi Selatan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3328,6096516,4233,0.73,-0.2719350961538461,Surplus,1
+2023,Sulawesi Selatan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1996,8263351,1031,0.43,0.4834669338677355,Waspada,0
+2023,Sulawesi Selatan,Multimedia/DKV,Desain Grafis & UI/UX,2553,6654971,2649,0.61,-0.0376028202115158,Surplus,0
+2023,Sulawesi Selatan,Multimedia/DKV,Content Creation,3075,13838807,2964,0.83,0.0360975609756097,Waspada,0
+2023,Sulawesi Tenggara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1268,6649396,655,0.59,0.4834384858044164,Waspada,0
+2023,Sulawesi Tenggara,Teknik Komputer & Jaringan (TKJ),Cyber Security,2673,7491276,1159,0.65,0.5664047886270108,Kritis,0
+2023,Sulawesi Tenggara,Rekayasa Perangkat Lunak (RPL),Web Development,3373,7326954,932,0.67,0.7236881114734658,Kritis,0
+2023,Sulawesi Tenggara,Rekayasa Perangkat Lunak (RPL),Data Analytics,1242,12807407,1727,0.73,-0.3904991948470209,Surplus,1
+2023,Sulawesi Tenggara,Teknik Otomasi Industri (TOI),Otomasi Industri,3106,13850222,2125,0.74,0.3158403090792015,Waspada,0
+2023,Sulawesi Tenggara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1960,12801482,2214,0.6,-0.1295918367346938,Surplus,1
+2023,Sulawesi Tenggara,Teknik Logistik,Supply Chain Digital,3135,5872647,2827,0.84,0.0982456140350877,Waspada,0
+2023,Sulawesi Tenggara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2099,9906563,1894,0.76,0.0976655550262029,Waspada,0
+2023,Sulawesi Tenggara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2919,11263768,1654,0.44,0.4333675916409729,Waspada,0
+2023,Sulawesi Tenggara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3087,10406594,2446,0.58,0.2076449627470035,Waspada,0
+2023,Sulawesi Tenggara,Multimedia/DKV,Desain Grafis & UI/UX,1866,6750367,3036,0.41,-0.6270096463022508,Surplus,1
+2023,Sulawesi Tenggara,Multimedia/DKV,Content Creation,3169,6401596,3601,0.71,-0.1363206058693594,Surplus,0
+2023,Gorontalo,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2228,10523601,1729,0.52,0.223967684021544,Waspada,0
+2023,Gorontalo,Teknik Komputer & Jaringan (TKJ),Cyber Security,1803,10079548,1586,0.75,0.1203549639489739,Waspada,0
+2023,Gorontalo,Rekayasa Perangkat Lunak (RPL),Web Development,2628,12704069,959,0.42,0.6350837138508372,Kritis,0
+2023,Gorontalo,Rekayasa Perangkat Lunak (RPL),Data Analytics,3480,7045131,1027,0.52,0.7048850574712644,Kritis,0
+2023,Gorontalo,Teknik Otomasi Industri (TOI),Otomasi Industri,3168,13280473,2331,0.43,0.2642045454545454,Waspada,0
+2023,Gorontalo,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3036,10255770,2360,0.7,0.22266139657444,Waspada,0
+2023,Gorontalo,Teknik Logistik,Supply Chain Digital,3496,7706158,2099,0.69,0.3995995423340961,Waspada,0
+2023,Gorontalo,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2344,6022869,1108,0.82,0.5273037542662116,Kritis,0
+2023,Gorontalo,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3486,7925354,1596,0.51,0.5421686746987951,Kritis,0
+2023,Gorontalo,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1247,9582883,2497,0.43,-1.0024057738572574,Surplus,1
+2023,Gorontalo,Multimedia/DKV,Desain Grafis & UI/UX,2480,8782588,3850,0.54,-0.5524193548387096,Surplus,1
+2023,Gorontalo,Multimedia/DKV,Content Creation,2915,10960686,3712,0.54,-0.2734133790737564,Surplus,1
+2023,Sulawesi Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1838,5435605,1202,0.74,0.3460282916213275,Waspada,0
+2023,Sulawesi Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,1725,9383897,1587,0.36,0.08,Waspada,0
+2023,Sulawesi Barat,Rekayasa Perangkat Lunak (RPL),Web Development,1227,12213718,1186,0.66,0.0334148329258353,Waspada,0
+2023,Sulawesi Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,3325,11659991,1087,0.57,0.6730827067669173,Kritis,0
+2023,Sulawesi Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,1564,11358221,2923,0.63,-0.868925831202046,Surplus,1
+2023,Sulawesi Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2535,6107506,1924,0.76,0.241025641025641,Waspada,0
+2023,Sulawesi Barat,Teknik Logistik,Supply Chain Digital,2230,7701614,1888,0.62,0.1533632286995515,Waspada,0
+2023,Sulawesi Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2118,8508654,2191,0.38,-0.034466477809254,Surplus,0
+2023,Sulawesi Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2731,12115436,1788,0.5,0.3452947638227755,Waspada,0
+2023,Sulawesi Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3106,6015502,2359,0.78,0.2405022537025112,Waspada,0
+2023,Sulawesi Barat,Multimedia/DKV,Desain Grafis & UI/UX,2415,7119049,2286,0.83,0.0534161490683229,Waspada,0
+2023,Sulawesi Barat,Multimedia/DKV,Content Creation,2262,12387768,4471,0.63,-0.9765694076038904,Surplus,1
+2023,Maluku,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2496,6992614,1114,0.46,0.5536858974358975,Kritis,0
+2023,Maluku,Teknik Komputer & Jaringan (TKJ),Cyber Security,3333,5570173,1675,0.78,0.4974497449744974,Waspada,0
+2023,Maluku,Rekayasa Perangkat Lunak (RPL),Web Development,1736,10442264,1743,0.69,-0.0040322580645161,Surplus,0
+2023,Maluku,Rekayasa Perangkat Lunak (RPL),Data Analytics,2803,5267010,927,0.5,0.6692829111666072,Kritis,0
+2023,Maluku,Teknik Otomasi Industri (TOI),Otomasi Industri,1432,9021038,2399,0.76,-0.6752793296089385,Surplus,1
+2023,Maluku,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3475,13176430,1312,0.75,0.6224460431654676,Kritis,0
+2023,Maluku,Teknik Logistik,Supply Chain Digital,2693,8680993,1518,0.51,0.4363163757890828,Waspada,0
+2023,Maluku,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1822,7368103,1374,0.64,0.2458836443468715,Waspada,0
+2023,Maluku,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2741,9996467,4210,0.84,-0.5359357898577162,Surplus,1
+2023,Maluku,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2505,13761343,2202,0.36,0.1209580838323353,Waspada,0
+2023,Maluku,Multimedia/DKV,Desain Grafis & UI/UX,2961,7497143,2194,0.43,0.2590341100979398,Waspada,0
+2023,Maluku,Multimedia/DKV,Content Creation,2076,6114532,1668,0.36,0.1965317919075144,Waspada,0
+2023,Maluku Utara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2512,5744789,1682,0.5,0.3304140127388535,Waspada,0
+2023,Maluku Utara,Teknik Komputer & Jaringan (TKJ),Cyber Security,2933,13714501,1498,0.56,0.4892601431980907,Waspada,0
+2023,Maluku Utara,Rekayasa Perangkat Lunak (RPL),Web Development,2726,7055363,1235,0.52,0.5469552457813647,Kritis,0
+2023,Maluku Utara,Rekayasa Perangkat Lunak (RPL),Data Analytics,2830,8948887,1019,0.79,0.6399293286219081,Kritis,0
+2023,Maluku Utara,Teknik Otomasi Industri (TOI),Otomasi Industri,2360,13857014,2092,0.38,0.1135593220338983,Waspada,0
+2023,Maluku Utara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1442,5833255,2082,0.53,-0.4438280166435506,Surplus,1
+2023,Maluku Utara,Teknik Logistik,Supply Chain Digital,1428,13002787,1049,0.57,0.265406162464986,Waspada,0
+2023,Maluku Utara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2119,13729285,1018,0.69,0.5195847097687588,Kritis,0
+2023,Maluku Utara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1667,7894235,4371,0.38,-1.6220755848830235,Surplus,1
+2023,Maluku Utara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1274,10786126,1558,0.54,-0.2229199372056514,Surplus,1
+2023,Maluku Utara,Multimedia/DKV,Desain Grafis & UI/UX,1845,5187952,1932,0.67,-0.0471544715447154,Surplus,0
+2023,Maluku Utara,Multimedia/DKV,Content Creation,2829,5830117,4075,0.72,-0.4404383174266525,Surplus,1
+2023,Papua,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2146,7157821,789,0.45,0.6323392357875116,Kritis,0
+2023,Papua,Teknik Komputer & Jaringan (TKJ),Cyber Security,2664,13713742,1576,0.74,0.4084084084084084,Waspada,0
+2023,Papua,Rekayasa Perangkat Lunak (RPL),Web Development,2615,5044761,1625,0.4,0.378585086042065,Waspada,0
+2023,Papua,Rekayasa Perangkat Lunak (RPL),Data Analytics,2658,13186180,1333,0.51,0.4984951091045899,Waspada,0
+2023,Papua,Teknik Otomasi Industri (TOI),Otomasi Industri,2633,4864323,1830,0.57,0.3049753133308013,Waspada,0
+2023,Papua,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3010,6037715,1568,0.36,0.4790697674418605,Waspada,0
+2023,Papua,Teknik Logistik,Supply Chain Digital,1424,12840979,2597,0.61,-0.8237359550561798,Surplus,1
+2023,Papua,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1312,11481134,1016,0.4,0.2256097560975609,Waspada,0
+2023,Papua,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3248,10147417,3889,0.41,-0.1973522167487684,Surplus,1
+2023,Papua,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1853,10609701,2341,0.63,-0.2633567188343227,Surplus,1
+2023,Papua,Multimedia/DKV,Desain Grafis & UI/UX,3028,13471370,3157,0.7,-0.0426023778071334,Surplus,0
+2023,Papua,Multimedia/DKV,Content Creation,3226,5371650,2136,0.45,0.337879727216367,Waspada,0
+2023,Papua Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2101,7663793,1762,0.55,0.1613517372679676,Waspada,0
+2023,Papua Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,3239,11681289,1311,0.65,0.5952454461253474,Kritis,0
+2023,Papua Barat,Rekayasa Perangkat Lunak (RPL),Web Development,1460,8557974,713,0.59,0.5116438356164383,Kritis,0
+2023,Papua Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,2873,12011179,784,0.67,0.7271145144448312,Kritis,0
+2023,Papua Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,3260,8999591,2815,0.68,0.1365030674846625,Waspada,0
+2023,Papua Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2819,7954240,1021,0.42,0.6378148279531749,Kritis,0
+2023,Papua Barat,Teknik Logistik,Supply Chain Digital,2542,12596324,2462,0.39,0.03147128245476,Waspada,0
+2023,Papua Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3194,6990222,1668,0.81,0.4777708202880401,Waspada,0
+2023,Papua Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3143,7519269,1528,0.5,0.5138402799872733,Kritis,0
+2023,Papua Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3238,10472354,1949,0.7,0.3980852378011118,Waspada,0
+2023,Papua Barat,Multimedia/DKV,Desain Grafis & UI/UX,2318,5586667,2103,0.66,0.0927523727351164,Waspada,0
+2023,Papua Barat,Multimedia/DKV,Content Creation,3169,6512503,2049,0.63,0.3534237929946355,Waspada,0
+2023,Papua Selatan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2360,12860833,1515,0.36,0.3580508474576271,Waspada,0
+2023,Papua Selatan,Teknik Komputer & Jaringan (TKJ),Cyber Security,2770,7669760,1857,0.54,0.3296028880866426,Waspada,0
+2023,Papua Selatan,Rekayasa Perangkat Lunak (RPL),Web Development,2519,5892501,1498,0.69,0.4053195712584359,Waspada,0
+2023,Papua Selatan,Rekayasa Perangkat Lunak (RPL),Data Analytics,3055,5935964,962,0.69,0.6851063829787234,Kritis,0
+2023,Papua Selatan,Teknik Otomasi Industri (TOI),Otomasi Industri,2072,6955748,2349,0.51,-0.1336872586872587,Surplus,0
+2023,Papua Selatan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3051,8725282,1099,0.47,0.6397902327105867,Kritis,0
+2023,Papua Selatan,Teknik Logistik,Supply Chain Digital,1924,13710852,1257,0.78,0.3466735966735966,Waspada,0
+2023,Papua Selatan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1277,11741245,2088,0.41,-0.6350822239624119,Surplus,1
+2023,Papua Selatan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1331,12617304,1897,0.66,-0.425244177310293,Surplus,1
+2023,Papua Selatan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3063,11821862,2338,0.72,0.2366960496245511,Waspada,0
+2023,Papua Selatan,Multimedia/DKV,Desain Grafis & UI/UX,1815,13151245,2338,0.35,-0.2881542699724518,Surplus,1
+2023,Papua Selatan,Multimedia/DKV,Content Creation,3088,11309590,3406,0.64,-0.1029792746113989,Surplus,0
+2023,Papua Tengah,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1774,12290200,1045,0.54,0.4109357384441939,Waspada,0
+2023,Papua Tengah,Teknik Komputer & Jaringan (TKJ),Cyber Security,3392,9683680,833,0.66,0.7544221698113207,Kritis,0
+2023,Papua Tengah,Rekayasa Perangkat Lunak (RPL),Web Development,1702,7409089,845,0.64,0.5035252643948296,Kritis,0
+2023,Papua Tengah,Rekayasa Perangkat Lunak (RPL),Data Analytics,3197,5714228,1180,0.62,0.6309039724741946,Kritis,0
+2023,Papua Tengah,Teknik Otomasi Industri (TOI),Otomasi Industri,3351,12705477,1082,0.83,0.6771113100566994,Kritis,0
+2023,Papua Tengah,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2869,8169538,2443,0.71,0.1484837922621122,Waspada,0
+2023,Papua Tengah,Teknik Logistik,Supply Chain Digital,2402,9337358,1045,0.44,0.5649458784346378,Kritis,0
+2023,Papua Tengah,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2846,11667100,2823,0.46,0.0080815179198875,Waspada,0
+2023,Papua Tengah,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2320,10075034,3283,0.4,-0.4150862068965517,Surplus,1
+2023,Papua Tengah,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2150,10897091,1369,0.72,0.3632558139534884,Waspada,0
+2023,Papua Tengah,Multimedia/DKV,Desain Grafis & UI/UX,3057,7977993,2533,0.4,0.1714098789663068,Waspada,0
+2023,Papua Tengah,Multimedia/DKV,Content Creation,1716,12383354,3795,0.39,-1.2115384615384617,Surplus,1
+2023,Papua Pegunungan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3065,10613365,1580,0.57,0.4845024469820554,Waspada,0
+2023,Papua Pegunungan,Teknik Komputer & Jaringan (TKJ),Cyber Security,3132,10197662,1491,0.76,0.5239463601532567,Kritis,0
+2023,Papua Pegunungan,Rekayasa Perangkat Lunak (RPL),Web Development,2014,6605468,895,0.71,0.5556107249255213,Kritis,0
+2023,Papua Pegunungan,Rekayasa Perangkat Lunak (RPL),Data Analytics,3294,10325633,1914,0.85,0.418943533697632,Waspada,0
+2023,Papua Pegunungan,Teknik Otomasi Industri (TOI),Otomasi Industri,1294,8177778,1859,0.66,-0.4366306027820711,Surplus,1
+2023,Papua Pegunungan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3155,10535193,1376,0.69,0.5638668779714738,Kritis,0
+2023,Papua Pegunungan,Teknik Logistik,Supply Chain Digital,3034,10697498,2969,0.71,0.0214238628872775,Waspada,0
+2023,Papua Pegunungan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3316,13004298,2703,0.68,0.1848612786489746,Waspada,0
+2023,Papua Pegunungan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3065,10643493,2634,0.79,0.1406199021207178,Waspada,0
+2023,Papua Pegunungan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1911,12195350,2503,0.81,-0.3097854526425955,Surplus,1
+2023,Papua Pegunungan,Multimedia/DKV,Desain Grafis & UI/UX,2014,13264685,3034,0.47,-0.506454816285998,Surplus,1
+2023,Papua Pegunungan,Multimedia/DKV,Content Creation,1562,9127819,3583,0.49,-1.293854033290653,Surplus,1
+2023,Papua Barat Daya,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3465,6055564,1262,0.81,0.6357864357864358,Kritis,0
+2023,Papua Barat Daya,Teknik Komputer & Jaringan (TKJ),Cyber Security,2184,13859296,781,0.58,0.6423992673992674,Kritis,0
+2023,Papua Barat Daya,Rekayasa Perangkat Lunak (RPL),Web Development,2839,9224507,1275,0.46,0.5508982035928144,Kritis,0
+2023,Papua Barat Daya,Rekayasa Perangkat Lunak (RPL),Data Analytics,1555,8157679,1419,0.69,0.0874598070739549,Waspada,0
+2023,Papua Barat Daya,Teknik Otomasi Industri (TOI),Otomasi Industri,2547,9190020,1337,0.54,0.475068708284256,Waspada,0
+2023,Papua Barat Daya,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3063,5638761,2526,0.77,0.1753183153770812,Waspada,0
+2023,Papua Barat Daya,Teknik Logistik,Supply Chain Digital,1803,10152825,2573,0.54,-0.4270660011092623,Surplus,1
+2023,Papua Barat Daya,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3128,13687324,2187,0.82,0.3008312020460358,Waspada,0
+2023,Papua Barat Daya,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2630,12174592,2382,0.74,0.094296577946768,Waspada,0
+2023,Papua Barat Daya,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2836,6802324,1386,0.66,0.5112834978843441,Kritis,0
+2023,Papua Barat Daya,Multimedia/DKV,Desain Grafis & UI/UX,2845,11471318,2748,0.48,0.0340949033391915,Waspada,0
+2023,Papua Barat Daya,Multimedia/DKV,Content Creation,3054,8378226,2403,0.61,0.2131630648330059,Waspada,0
+2024,Aceh,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2391,7227540,1142,0.74,0.5223755750731911,Kritis,0
+2024,Aceh,Teknik Komputer & Jaringan (TKJ),Cyber Security,2835,13700019,1162,0.81,0.5901234567901235,Kritis,0
+2024,Aceh,Rekayasa Perangkat Lunak (RPL),Web Development,1473,11104680,938,0.75,0.3632043448744059,Waspada,0
+2024,Aceh,Rekayasa Perangkat Lunak (RPL),Data Analytics,1986,6698739,874,0.48,0.5599194360523666,Kritis,0
+2024,Aceh,Teknik Otomasi Industri (TOI),Otomasi Industri,1944,5817433,1866,0.81,0.0401234567901234,Waspada,0
+2024,Aceh,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3720,9461029,1609,0.68,0.5674731182795699,Kritis,0
+2024,Aceh,Teknik Logistik,Supply Chain Digital,1775,8478086,1629,0.74,0.0822535211267605,Waspada,0
+2024,Aceh,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1874,6887258,1839,0.67,0.0186766275346851,Waspada,0
+2024,Aceh,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2394,11657658,2124,0.67,0.112781954887218,Waspada,0
+2024,Aceh,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2324,5796530,1810,0.56,0.221170395869191,Waspada,0
+2024,Aceh,Multimedia/DKV,Desain Grafis & UI/UX,2693,7401623,2213,0.62,0.1782398811734125,Waspada,0
+2024,Aceh,Multimedia/DKV,Content Creation,1370,11031219,4121,0.82,-2.008029197080292,Surplus,1
+2024,Sumatera Utara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2138,8164695,737,0.56,0.6552853133769878,Kritis,0
+2024,Sumatera Utara,Teknik Komputer & Jaringan (TKJ),Cyber Security,2670,5845482,717,0.5,0.7314606741573034,Kritis,0
+2024,Sumatera Utara,Rekayasa Perangkat Lunak (RPL),Web Development,2084,10586265,1461,0.65,0.2989443378119002,Waspada,0
+2024,Sumatera Utara,Rekayasa Perangkat Lunak (RPL),Data Analytics,3811,12287345,1506,0.5,0.6048281290999737,Kritis,0
+2024,Sumatera Utara,Teknik Otomasi Industri (TOI),Otomasi Industri,3015,5370451,1305,0.55,0.5671641791044776,Kritis,0
+2024,Sumatera Utara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2114,7212149,1948,0.6,0.0785241248817407,Waspada,0
+2024,Sumatera Utara,Teknik Logistik,Supply Chain Digital,1725,8152252,2973,0.46,-0.7234782608695652,Surplus,1
+2024,Sumatera Utara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2892,11822336,2238,0.73,0.2261410788381742,Waspada,0
+2024,Sumatera Utara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3314,7678604,3077,0.36,0.0715147857573928,Waspada,0
+2024,Sumatera Utara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2451,9127858,1164,0.48,0.5250917992656059,Kritis,0
+2024,Sumatera Utara,Multimedia/DKV,Desain Grafis & UI/UX,2409,12233533,3215,0.41,-0.3345786633457866,Surplus,1
+2024,Sumatera Utara,Multimedia/DKV,Content Creation,3672,10784684,3001,0.39,0.1827342047930283,Waspada,0
+2024,Sumatera Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3024,7494287,1157,0.82,0.6173941798941799,Kritis,0
+2024,Sumatera Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,3656,9421056,838,0.79,0.7707877461706784,Kritis,0
+2024,Sumatera Barat,Rekayasa Perangkat Lunak (RPL),Web Development,2905,5503662,1095,0.76,0.6230636833046471,Kritis,0
+2024,Sumatera Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,1560,7459440,1769,0.41,-0.1339743589743589,Surplus,0
+2024,Sumatera Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,3764,8743645,1110,0.35,0.7051009564293305,Kritis,0
+2024,Sumatera Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3249,10894467,1184,0.47,0.6355801785164666,Kritis,0
+2024,Sumatera Barat,Teknik Logistik,Supply Chain Digital,3494,10317366,1363,0.63,0.6099026903262736,Kritis,0
+2024,Sumatera Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2238,10011593,2795,0.53,-0.2488829311885612,Surplus,1
+2024,Sumatera Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3473,13170262,3653,0.39,-0.0518283904405413,Surplus,0
+2024,Sumatera Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1404,9646769,2994,0.74,-1.1324786324786325,Surplus,1
+2024,Sumatera Barat,Multimedia/DKV,Desain Grafis & UI/UX,2275,8843064,3641,0.46,-0.6004395604395605,Surplus,1
+2024,Sumatera Barat,Multimedia/DKV,Content Creation,3424,7402967,2442,0.83,0.2867990654205608,Waspada,0
+2024,Riau,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3590,4876218,1737,0.67,0.5161559888579387,Kritis,0
+2024,Riau,Teknik Komputer & Jaringan (TKJ),Cyber Security,3348,5570044,1487,0.6,0.5558542413381123,Kritis,0
+2024,Riau,Rekayasa Perangkat Lunak (RPL),Web Development,1710,7985714,1220,0.47,0.2865497076023391,Waspada,0
+2024,Riau,Rekayasa Perangkat Lunak (RPL),Data Analytics,2785,12467105,1270,0.4,0.5439856373429084,Kritis,0
+2024,Riau,Teknik Otomasi Industri (TOI),Otomasi Industri,3744,6722135,1181,0.39,0.6845619658119658,Kritis,0
+2024,Riau,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2812,5778039,1152,0.6,0.5903271692745377,Kritis,0
+2024,Riau,Teknik Logistik,Supply Chain Digital,1849,5299876,1727,0.61,0.0659816116819902,Waspada,0
+2024,Riau,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1546,12785620,1310,0.69,0.1526520051746442,Waspada,0
+2024,Riau,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2362,5568734,2283,0.52,0.0334462320067739,Waspada,0
+2024,Riau,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2264,12550575,3118,0.72,-0.377208480565371,Surplus,1
+2024,Riau,Multimedia/DKV,Desain Grafis & UI/UX,3585,10311174,2845,0.36,0.206415620641562,Waspada,0
+2024,Riau,Multimedia/DKV,Content Creation,1712,11369632,2271,0.43,-0.326518691588785,Surplus,1
+2024,Jambi,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3805,6826580,1825,0.56,0.5203679369250985,Kritis,0
+2024,Jambi,Teknik Komputer & Jaringan (TKJ),Cyber Security,1507,12029039,1129,0.7,0.2508294625082946,Waspada,0
+2024,Jambi,Rekayasa Perangkat Lunak (RPL),Web Development,2367,9139235,1009,0.59,0.5737220109843684,Kritis,0
+2024,Jambi,Rekayasa Perangkat Lunak (RPL),Data Analytics,2808,8326737,1397,0.43,0.5024928774928775,Kritis,0
+2024,Jambi,Teknik Otomasi Industri (TOI),Otomasi Industri,1918,6808960,2744,0.78,-0.4306569343065693,Surplus,1
+2024,Jambi,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3515,11718889,1543,0.72,0.5610241820768137,Kritis,0
+2024,Jambi,Teknik Logistik,Supply Chain Digital,2922,6737878,2122,0.5,0.2737850787132101,Waspada,0
+2024,Jambi,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1786,10993956,1827,0.39,-0.0229563269876819,Surplus,0
+2024,Jambi,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2388,6505215,2683,0.56,-0.1235343383584589,Surplus,0
+2024,Jambi,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3311,12071476,1471,0.8,0.5557233464210208,Kritis,0
+2024,Jambi,Multimedia/DKV,Desain Grafis & UI/UX,3460,12921849,3077,0.41,0.1106936416184971,Waspada,0
+2024,Jambi,Multimedia/DKV,Content Creation,2897,8908880,3149,0.64,-0.0869865377977217,Surplus,0
+2024,Sumatera Selatan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3702,4890093,1130,0.61,0.6947595894111291,Kritis,0
+2024,Sumatera Selatan,Teknik Komputer & Jaringan (TKJ),Cyber Security,1486,6532465,1732,0.51,-0.1655450874831763,Surplus,1
+2024,Sumatera Selatan,Rekayasa Perangkat Lunak (RPL),Web Development,1926,7659244,1826,0.38,0.0519210799584631,Waspada,0
+2024,Sumatera Selatan,Rekayasa Perangkat Lunak (RPL),Data Analytics,2804,5122918,1187,0.48,0.5766761768901569,Kritis,0
+2024,Sumatera Selatan,Teknik Otomasi Industri (TOI),Otomasi Industri,3338,7045909,1161,0.46,0.6521869382863991,Kritis,0
+2024,Sumatera Selatan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3641,13968924,1467,0.64,0.5970887118923373,Kritis,0
+2024,Sumatera Selatan,Teknik Logistik,Supply Chain Digital,2244,5814929,1416,0.63,0.3689839572192513,Waspada,0
+2024,Sumatera Selatan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3780,7220564,2285,0.73,0.3955026455026455,Waspada,0
+2024,Sumatera Selatan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3683,13377064,3906,0.62,-0.060548465924518,Surplus,0
+2024,Sumatera Selatan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3674,10688997,1382,0.56,0.6238432226456179,Kritis,0
+2024,Sumatera Selatan,Multimedia/DKV,Desain Grafis & UI/UX,2913,11038795,3121,0.44,-0.0714040508067284,Surplus,0
+2024,Sumatera Selatan,Multimedia/DKV,Content Creation,3160,9567348,3034,0.51,0.0398734177215189,Waspada,0
+2024,Bengkulu,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1725,5516756,770,0.79,0.553623188405797,Kritis,0
+2024,Bengkulu,Teknik Komputer & Jaringan (TKJ),Cyber Security,3666,11590968,1304,0.36,0.6442989634478996,Kritis,0
+2024,Bengkulu,Rekayasa Perangkat Lunak (RPL),Web Development,2066,12169434,836,0.41,0.5953533397870281,Kritis,0
+2024,Bengkulu,Rekayasa Perangkat Lunak (RPL),Data Analytics,1531,7938145,1660,0.6,-0.0842586544741998,Surplus,0
+2024,Bengkulu,Teknik Otomasi Industri (TOI),Otomasi Industri,3328,8984056,2433,0.52,0.2689302884615384,Waspada,0
+2024,Bengkulu,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1852,6300844,1704,0.84,0.079913606911447,Waspada,0
+2024,Bengkulu,Teknik Logistik,Supply Chain Digital,2129,5491757,1056,0.45,0.5039924847346172,Kritis,0
+2024,Bengkulu,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3134,11654453,2441,0.73,0.2211231652839821,Waspada,0
+2024,Bengkulu,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2896,8137920,3859,0.45,-0.3325276243093922,Surplus,1
+2024,Bengkulu,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2119,11627299,1888,0.83,0.1090136857008022,Waspada,0
+2024,Bengkulu,Multimedia/DKV,Desain Grafis & UI/UX,2905,12717596,1859,0.36,0.3600688468158348,Waspada,0
+2024,Bengkulu,Multimedia/DKV,Content Creation,1509,9702666,2383,0.78,-0.5791915175612988,Surplus,1
+2024,Lampung,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2821,5676031,845,0.59,0.7004608294930875,Kritis,0
+2024,Lampung,Teknik Komputer & Jaringan (TKJ),Cyber Security,2616,5859622,1507,0.79,0.4239296636085627,Waspada,0
+2024,Lampung,Rekayasa Perangkat Lunak (RPL),Web Development,2744,5178165,956,0.71,0.6516034985422741,Kritis,0
+2024,Lampung,Rekayasa Perangkat Lunak (RPL),Data Analytics,1452,13897270,1464,0.35,-0.0082644628099173,Surplus,0
+2024,Lampung,Teknik Otomasi Industri (TOI),Otomasi Industri,2191,13833796,1733,0.7,0.209036969420356,Waspada,0
+2024,Lampung,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2813,6431993,2960,0.77,-0.0522573764664059,Surplus,0
+2024,Lampung,Teknik Logistik,Supply Chain Digital,2184,7142035,1564,0.79,0.2838827838827839,Waspada,0
+2024,Lampung,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3317,12040947,1480,0.59,0.5538136870666265,Kritis,0
+2024,Lampung,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1751,10731161,3035,0.49,-0.7332952598515134,Surplus,1
+2024,Lampung,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3050,7521864,2310,0.58,0.2426229508196721,Waspada,0
+2024,Lampung,Multimedia/DKV,Desain Grafis & UI/UX,2508,12533308,2087,0.76,0.1678628389154705,Waspada,0
+2024,Lampung,Multimedia/DKV,Content Creation,2394,7504999,4617,0.79,-0.9285714285714286,Surplus,1
+2024,Kep. Bangka Belitung,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3683,6124070,1283,0.36,0.65164268259571,Kritis,0
+2024,Kep. Bangka Belitung,Teknik Komputer & Jaringan (TKJ),Cyber Security,1489,10587749,1312,0.54,0.1188717259905977,Waspada,0
+2024,Kep. Bangka Belitung,Rekayasa Perangkat Lunak (RPL),Web Development,3176,12266027,1524,0.36,0.5201511335012594,Kritis,0
+2024,Kep. Bangka Belitung,Rekayasa Perangkat Lunak (RPL),Data Analytics,2508,9174857,934,0.45,0.6275917065390749,Kritis,0
+2024,Kep. Bangka Belitung,Teknik Otomasi Industri (TOI),Otomasi Industri,3046,11410734,2869,0.37,0.0581089954038082,Waspada,0
+2024,Kep. Bangka Belitung,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1356,9694287,1577,0.54,-0.1629793510324483,Surplus,1
+2024,Kep. Bangka Belitung,Teknik Logistik,Supply Chain Digital,1584,7290706,1231,0.72,0.2228535353535353,Waspada,0
+2024,Kep. Bangka Belitung,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3358,12847252,2452,0.38,0.2698034544371649,Waspada,0
+2024,Kep. Bangka Belitung,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3304,11015140,2845,0.84,0.1389225181598063,Waspada,0
+2024,Kep. Bangka Belitung,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2138,5264071,1124,0.54,0.4742750233863423,Waspada,0
+2024,Kep. Bangka Belitung,Multimedia/DKV,Desain Grafis & UI/UX,2589,13964043,2427,0.84,0.0625724217844727,Waspada,0
+2024,Kep. Bangka Belitung,Multimedia/DKV,Content Creation,1890,13169689,2388,0.85,-0.2634920634920635,Surplus,1
+2024,Kep. Riau,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1395,9939743,1104,0.37,0.2086021505376344,Waspada,0
+2024,Kep. Riau,Teknik Komputer & Jaringan (TKJ),Cyber Security,2214,8613270,893,0.46,0.5966576332429991,Kritis,0
+2024,Kep. Riau,Rekayasa Perangkat Lunak (RPL),Web Development,3379,11409876,1836,0.71,0.4566439775081385,Waspada,0
+2024,Kep. Riau,Rekayasa Perangkat Lunak (RPL),Data Analytics,1622,6324102,702,0.38,0.5672009864364982,Kritis,0
+2024,Kep. Riau,Teknik Otomasi Industri (TOI),Otomasi Industri,3607,29090854,1635,0.54,0.546714721375104,Kritis,2
+2024,Kep. Riau,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3142,20838153,2698,0.71,0.1413112667091025,Waspada,2
+2024,Kep. Riau,Teknik Logistik,Supply Chain Digital,6399,24131958,2230,0.52,0.6515080481325207,Kritis,2
+2024,Kep. Riau,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,5148,11839806,1138,0.35,0.778943278943279,Kritis,0
+2024,Kep. Riau,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2390,13470178,3522,0.77,-0.4736401673640167,Surplus,1
+2024,Kep. Riau,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1793,8195049,2370,0.59,-0.3218070273284997,Surplus,1
+2024,Kep. Riau,Multimedia/DKV,Desain Grafis & UI/UX,2031,12751632,2101,0.67,-0.034465780403742,Surplus,0
+2024,Kep. Riau,Multimedia/DKV,Content Creation,2667,10881687,3907,0.74,-0.4649418822647169,Surplus,1
+2024,DKI Jakarta,Teknik Komputer & Jaringan (TKJ),Cloud Computing,9233,17634000,1161,0.37,0.8742553882811653,Kritis,2
+2024,DKI Jakarta,Teknik Komputer & Jaringan (TKJ),Cyber Security,6238,21583344,1997,0.73,0.6798653414555947,Kritis,2
+2024,DKI Jakarta,Rekayasa Perangkat Lunak (RPL),Web Development,6435,11841732,844,0.62,0.8688422688422689,Kritis,0
+2024,DKI Jakarta,Rekayasa Perangkat Lunak (RPL),Data Analytics,3714,33596520,1616,0.73,0.564889606892838,Kritis,2
+2024,DKI Jakarta,Teknik Otomasi Industri (TOI),Otomasi Industri,1750,13884966,1878,0.69,-0.0731428571428571,Surplus,0
+2024,DKI Jakarta,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2880,11237845,2623,0.42,0.0892361111111111,Waspada,0
+2024,DKI Jakarta,Teknik Logistik,Supply Chain Digital,2374,8628433,1543,0.45,0.3500421229991575,Waspada,0
+2024,DKI Jakarta,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1360,9248748,1084,0.72,0.2029411764705882,Waspada,0
+2024,DKI Jakarta,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2966,11952747,2467,0.68,0.1682400539447066,Waspada,0
+2024,DKI Jakarta,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1691,9117922,1969,0.8,-0.1643997634535777,Surplus,1
+2024,DKI Jakarta,Multimedia/DKV,Desain Grafis & UI/UX,1954,12265373,3001,0.43,-0.5358239508700102,Surplus,1
+2024,DKI Jakarta,Multimedia/DKV,Content Creation,1624,12870924,3779,0.73,-1.3269704433497538,Surplus,1
+2024,Jawa Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2796,11533215,1283,0.57,0.5411301859799714,Kritis,0
+2024,Jawa Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,3170,12995810,1255,0.79,0.6041009463722398,Kritis,0
+2024,Jawa Barat,Rekayasa Perangkat Lunak (RPL),Web Development,3487,12704294,1695,0.62,0.5139088041296244,Kritis,0
+2024,Jawa Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,2254,12971548,1755,0.43,0.2213842058562555,Waspada,0
+2024,Jawa Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,5073,26816355,2813,0.56,0.4454957618766016,Waspada,2
+2024,Jawa Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),4986,13985122,1316,0.49,0.7360609707180105,Kritis,0
+2024,Jawa Barat,Teknik Logistik,Supply Chain Digital,3619,26342534,2644,0.64,0.2694114396242056,Waspada,2
+2024,Jawa Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,7644,11233401,2961,0.47,0.6126373626373627,Kritis,0
+2024,Jawa Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3620,7847569,3048,0.78,0.1580110497237569,Waspada,0
+2024,Jawa Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3562,5585332,1802,0.8,0.4941044357102751,Waspada,0
+2024,Jawa Barat,Multimedia/DKV,Desain Grafis & UI/UX,3581,13355080,2026,0.72,0.4342362468584194,Waspada,0
+2024,Jawa Barat,Multimedia/DKV,Content Creation,1789,11303216,3680,0.39,-1.0570150922302963,Surplus,1
+2024,Jawa Tengah,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2422,7988729,1022,0.42,0.5780346820809249,Kritis,0
+2024,Jawa Tengah,Teknik Komputer & Jaringan (TKJ),Cyber Security,3391,9905724,926,0.76,0.7269242111471542,Kritis,0
+2024,Jawa Tengah,Rekayasa Perangkat Lunak (RPL),Web Development,2394,12796198,1120,0.83,0.5321637426900585,Kritis,0
+2024,Jawa Tengah,Rekayasa Perangkat Lunak (RPL),Data Analytics,2982,10754878,1616,0.49,0.4580818242790074,Waspada,0
+2024,Jawa Tengah,Teknik Otomasi Industri (TOI),Otomasi Industri,2828,10727997,2942,0.62,-0.0403111739745403,Surplus,0
+2024,Jawa Tengah,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3436,8681185,1241,0.82,0.6388242142025611,Kritis,0
+2024,Jawa Tengah,Teknik Logistik,Supply Chain Digital,2207,9966650,2334,0.46,-0.0575441776166742,Surplus,0
+2024,Jawa Tengah,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3143,10493075,2068,0.48,0.3420299077314667,Waspada,0
+2024,Jawa Tengah,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2836,8965100,1801,0.58,0.364950634696756,Waspada,0
+2024,Jawa Tengah,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2899,5663561,2750,0.46,0.0513970334598137,Waspada,0
+2024,Jawa Tengah,Multimedia/DKV,Desain Grafis & UI/UX,1596,10289464,2912,0.76,-0.8245614035087719,Surplus,1
+2024,Jawa Tengah,Multimedia/DKV,Content Creation,3880,11567528,4070,0.68,-0.0489690721649484,Surplus,0
+2024,DI Yogyakarta,Teknik Komputer & Jaringan (TKJ),Cloud Computing,8362,20505112,1334,0.76,0.8404687873714423,Kritis,2
+2024,DI Yogyakarta,Teknik Komputer & Jaringan (TKJ),Cyber Security,5177,21553574,1692,0.73,0.6731697894533514,Kritis,2
+2024,DI Yogyakarta,Rekayasa Perangkat Lunak (RPL),Web Development,7375,31837214,1241,0.74,0.831728813559322,Kritis,2
+2024,DI Yogyakarta,Rekayasa Perangkat Lunak (RPL),Data Analytics,6029,27950860,1954,0.72,0.6758998175485155,Kritis,2
+2024,DI Yogyakarta,Teknik Otomasi Industri (TOI),Otomasi Industri,3131,12147689,1206,0.57,0.6148195464707761,Kritis,0
+2024,DI Yogyakarta,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2294,7841341,1838,0.58,0.1987794245858762,Waspada,0
+2024,DI Yogyakarta,Teknik Logistik,Supply Chain Digital,3878,12463589,1594,0.37,0.5889633831872099,Kritis,0
+2024,DI Yogyakarta,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2217,9788023,1460,0.79,0.3414524131709517,Waspada,0
+2024,DI Yogyakarta,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2343,12609006,4077,0.63,-0.7400768245838668,Surplus,1
+2024,DI Yogyakarta,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1992,13223309,2228,0.78,-0.1184738955823293,Surplus,1
+2024,DI Yogyakarta,Multimedia/DKV,Desain Grafis & UI/UX,2889,11856993,4229,0.51,-0.463828314295604,Surplus,1
+2024,DI Yogyakarta,Multimedia/DKV,Content Creation,2788,7139767,1645,0.45,0.4099713055954089,Waspada,0
+2024,Jawa Timur,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2449,5291036,1708,0.51,0.3025724785626786,Waspada,0
+2024,Jawa Timur,Teknik Komputer & Jaringan (TKJ),Cyber Security,2708,7510241,1992,0.57,0.2644017725258493,Waspada,0
+2024,Jawa Timur,Rekayasa Perangkat Lunak (RPL),Web Development,2861,5942953,727,0.76,0.7458930443900734,Kritis,0
+2024,Jawa Timur,Rekayasa Perangkat Lunak (RPL),Data Analytics,1926,8778702,1541,0.72,0.199896157840083,Waspada,0
+2024,Jawa Timur,Teknik Otomasi Industri (TOI),Otomasi Industri,2914,27234866,2293,0.7,0.2131091283459162,Waspada,2
+2024,Jawa Timur,Teknik Otomasi Industri (TOI),Internet of Things (IoT),6157,19543763,2675,0.4,0.5655351632288452,Kritis,2
+2024,Jawa Timur,Teknik Logistik,Supply Chain Digital,5134,24463920,2390,0.8,0.5344760420724581,Kritis,2
+2024,Jawa Timur,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2909,27589243,2034,0.72,0.3007906497078034,Waspada,2
+2024,Jawa Timur,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2770,8080772,2307,0.69,0.1671480144404332,Waspada,0
+2024,Jawa Timur,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2686,10609041,2572,0.85,0.0424422933730454,Waspada,0
+2024,Jawa Timur,Multimedia/DKV,Desain Grafis & UI/UX,1851,9887268,4208,0.64,-1.2733657482441922,Surplus,1
+2024,Jawa Timur,Multimedia/DKV,Content Creation,3260,13012420,3779,0.56,-0.15920245398773,Surplus,1
+2024,Banten,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2432,5202732,1963,0.83,0.1928453947368421,Waspada,0
+2024,Banten,Teknik Komputer & Jaringan (TKJ),Cyber Security,3887,6750013,985,0.53,0.7465912014406998,Kritis,0
+2024,Banten,Rekayasa Perangkat Lunak (RPL),Web Development,3765,6785209,1012,0.55,0.7312084993359894,Kritis,0
+2024,Banten,Rekayasa Perangkat Lunak (RPL),Data Analytics,2851,5456951,1993,0.51,0.3009470361276745,Waspada,0
+2024,Banten,Teknik Otomasi Industri (TOI),Otomasi Industri,3459,8279591,2420,0.51,0.3003758311650766,Waspada,0
+2024,Banten,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3579,10826988,1660,0.36,0.536183291422185,Kritis,0
+2024,Banten,Teknik Logistik,Supply Chain Digital,2813,12226263,1519,0.81,0.4600071098471383,Waspada,0
+2024,Banten,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3739,9484346,2554,0.73,0.3169296603369885,Waspada,0
+2024,Banten,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3252,13293836,4603,0.42,-0.4154366543665436,Surplus,1
+2024,Banten,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1749,6555692,2902,0.66,-0.6592338479130933,Surplus,1
+2024,Banten,Multimedia/DKV,Desain Grafis & UI/UX,3265,6746793,3709,0.82,-0.1359877488514548,Surplus,0
+2024,Banten,Multimedia/DKV,Content Creation,1741,10915518,2664,0.78,-0.5301550832854681,Surplus,1
+2024,Bali,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2126,13237482,768,0.55,0.638758231420508,Kritis,0
+2024,Bali,Teknik Komputer & Jaringan (TKJ),Cyber Security,1966,8020281,721,0.85,0.633265513733469,Kritis,0
+2024,Bali,Rekayasa Perangkat Lunak (RPL),Web Development,2524,11663382,934,0.72,0.6299524564183835,Kritis,0
+2024,Bali,Rekayasa Perangkat Lunak (RPL),Data Analytics,1820,13659060,1671,0.7,0.0818681318681318,Waspada,0
+2024,Bali,Teknik Otomasi Industri (TOI),Otomasi Industri,3106,7392670,2015,0.64,0.3512556342562781,Waspada,0
+2024,Bali,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3728,11503459,2153,0.65,0.4224785407725321,Waspada,0
+2024,Bali,Teknik Logistik,Supply Chain Digital,2002,8561675,3060,0.54,-0.5284715284715285,Surplus,1
+2024,Bali,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1673,12215745,2072,0.52,-0.2384937238493724,Surplus,1
+2024,Bali,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2740,13677580,4261,0.67,-0.5551094890510949,Surplus,1
+2024,Bali,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,10357,25220249,1976,0.85,0.8092111615332626,Kritis,2
+2024,Bali,Multimedia/DKV,Desain Grafis & UI/UX,2750,13351646,2775,0.6,-0.009090909090909,Surplus,0
+2024,Bali,Multimedia/DKV,Content Creation,2126,10211263,4338,0.75,-1.0404515522107245,Surplus,1
+2024,Nusa Tenggara Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2098,11293509,1683,0.82,0.1978074356530028,Waspada,0
+2024,Nusa Tenggara Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,1999,13624031,1377,0.38,0.3111555777888944,Waspada,0
+2024,Nusa Tenggara Barat,Rekayasa Perangkat Lunak (RPL),Web Development,2456,13511998,1980,0.77,0.1938110749185667,Waspada,0
+2024,Nusa Tenggara Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,2951,8868316,1472,0.69,0.5011860386309726,Kritis,0
+2024,Nusa Tenggara Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,1654,12867987,2854,0.41,-0.7255139056831923,Surplus,1
+2024,Nusa Tenggara Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3457,10481635,2181,0.43,0.3691061614116285,Waspada,0
+2024,Nusa Tenggara Barat,Teknik Logistik,Supply Chain Digital,2760,13327171,2774,0.38,-0.0050724637681159,Surplus,0
+2024,Nusa Tenggara Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2161,9699856,1632,0.7,0.2447940768162887,Waspada,0
+2024,Nusa Tenggara Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2371,11417488,3120,0.38,-0.3159004639392661,Surplus,1
+2024,Nusa Tenggara Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2335,13961408,1993,0.43,0.1464668094218415,Waspada,0
+2024,Nusa Tenggara Barat,Multimedia/DKV,Desain Grafis & UI/UX,1367,6842999,3255,0.76,-1.3811265544989026,Surplus,1
+2024,Nusa Tenggara Barat,Multimedia/DKV,Content Creation,3871,6702897,1859,0.44,0.5197623353138724,Kritis,0
+2024,Nusa Tenggara Timur,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2131,5963950,2024,0.37,0.0502111684655091,Waspada,0
+2024,Nusa Tenggara Timur,Teknik Komputer & Jaringan (TKJ),Cyber Security,1662,7573707,1877,0.68,-0.1293622141997593,Surplus,0
+2024,Nusa Tenggara Timur,Rekayasa Perangkat Lunak (RPL),Web Development,2197,9868002,738,0.82,0.6640873918980428,Kritis,0
+2024,Nusa Tenggara Timur,Rekayasa Perangkat Lunak (RPL),Data Analytics,2404,6735740,1660,0.36,0.3094841930116472,Waspada,0
+2024,Nusa Tenggara Timur,Teknik Otomasi Industri (TOI),Otomasi Industri,2497,9955872,2220,0.36,0.1109331197436924,Waspada,0
+2024,Nusa Tenggara Timur,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3725,8563122,2165,0.7,0.4187919463087248,Waspada,0
+2024,Nusa Tenggara Timur,Teknik Logistik,Supply Chain Digital,1981,9221590,1850,0.58,0.0661282180716809,Waspada,0
+2024,Nusa Tenggara Timur,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2971,9227036,1592,0.83,0.4641534836755301,Waspada,0
+2024,Nusa Tenggara Timur,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1920,6518224,2561,0.67,-0.3338541666666667,Surplus,1
+2024,Nusa Tenggara Timur,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1386,12706166,1132,0.55,0.1832611832611832,Waspada,0
+2024,Nusa Tenggara Timur,Multimedia/DKV,Desain Grafis & UI/UX,3812,11240010,3076,0.64,0.1930745015739769,Waspada,0
+2024,Nusa Tenggara Timur,Multimedia/DKV,Content Creation,3385,6302337,3032,0.49,0.1042836041358936,Waspada,0
+2024,Kalimantan Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3259,8286669,1911,0.39,0.4136238109849647,Waspada,0
+2024,Kalimantan Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,3093,8522946,1764,0.65,0.4296799224054316,Waspada,0
+2024,Kalimantan Barat,Rekayasa Perangkat Lunak (RPL),Web Development,2450,12352975,2000,0.65,0.1836734693877551,Waspada,0
+2024,Kalimantan Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,2316,12561850,1121,0.37,0.5159758203799655,Kritis,0
+2024,Kalimantan Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,1436,8140216,1346,0.47,0.0626740947075208,Waspada,0
+2024,Kalimantan Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2923,6647865,2853,0.65,0.0239479986315429,Waspada,0
+2024,Kalimantan Barat,Teknik Logistik,Supply Chain Digital,2388,9697954,1692,0.47,0.2914572864321608,Waspada,0
+2024,Kalimantan Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3421,8817136,2018,0.68,0.4101140017538731,Waspada,0
+2024,Kalimantan Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2231,5144855,2368,0.6,-0.0614074406095921,Surplus,0
+2024,Kalimantan Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3370,9425678,2032,0.79,0.3970326409495548,Waspada,0
+2024,Kalimantan Barat,Multimedia/DKV,Desain Grafis & UI/UX,3869,5934106,3031,0.54,0.216593434996123,Waspada,0
+2024,Kalimantan Barat,Multimedia/DKV,Content Creation,3143,13096877,3491,0.49,-0.1107222398981864,Surplus,0
+2024,Kalimantan Tengah,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2446,10966160,1712,0.41,0.3000817661488144,Waspada,0
+2024,Kalimantan Tengah,Teknik Komputer & Jaringan (TKJ),Cyber Security,1925,10772558,796,0.37,0.5864935064935065,Kritis,0
+2024,Kalimantan Tengah,Rekayasa Perangkat Lunak (RPL),Web Development,2520,9237677,1525,0.7,0.3948412698412698,Waspada,0
+2024,Kalimantan Tengah,Rekayasa Perangkat Lunak (RPL),Data Analytics,3623,10041218,1518,0.84,0.5810102125310516,Kritis,0
+2024,Kalimantan Tengah,Teknik Otomasi Industri (TOI),Otomasi Industri,1733,9950635,2378,0.82,-0.3721869590305828,Surplus,1
+2024,Kalimantan Tengah,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2119,12014615,1959,0.38,0.0755073147711184,Waspada,0
+2024,Kalimantan Tengah,Teknik Logistik,Supply Chain Digital,1766,12810643,1326,0.52,0.2491506228765572,Waspada,0
+2024,Kalimantan Tengah,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1933,9325208,2425,0.84,-0.2545266425245732,Surplus,1
+2024,Kalimantan Tengah,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3867,7681990,3032,0.68,0.2159296612361003,Waspada,0
+2024,Kalimantan Tengah,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2754,11011411,1881,0.82,0.3169934640522875,Waspada,0
+2024,Kalimantan Tengah,Multimedia/DKV,Desain Grafis & UI/UX,3318,10409125,4583,0.63,-0.3812537673297167,Surplus,1
+2024,Kalimantan Tengah,Multimedia/DKV,Content Creation,2481,7674299,3308,0.39,-0.3333333333333333,Surplus,1
+2024,Kalimantan Selatan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2478,12130292,921,0.43,0.6283292978208233,Kritis,0
+2024,Kalimantan Selatan,Teknik Komputer & Jaringan (TKJ),Cyber Security,1473,6604673,1191,0.58,0.1914460285132382,Waspada,0
+2024,Kalimantan Selatan,Rekayasa Perangkat Lunak (RPL),Web Development,2875,12394378,1609,0.82,0.4403478260869565,Waspada,0
+2024,Kalimantan Selatan,Rekayasa Perangkat Lunak (RPL),Data Analytics,2561,13798604,1302,0.43,0.4916048418586489,Waspada,0
+2024,Kalimantan Selatan,Teknik Otomasi Industri (TOI),Otomasi Industri,1423,13967121,1543,0.61,-0.084328882642305,Surplus,0
+2024,Kalimantan Selatan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3598,12825407,2941,0.73,0.1826014452473596,Waspada,0
+2024,Kalimantan Selatan,Teknik Logistik,Supply Chain Digital,1721,13577198,2944,0.41,-0.7106333527019175,Surplus,1
+2024,Kalimantan Selatan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2022,7951882,1284,0.49,0.3649851632047478,Waspada,0
+2024,Kalimantan Selatan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2826,8010016,2120,0.45,0.2498230714791224,Waspada,0
+2024,Kalimantan Selatan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3632,11537320,1238,0.5,0.6591409691629956,Kritis,0
+2024,Kalimantan Selatan,Multimedia/DKV,Desain Grafis & UI/UX,2928,11796746,2903,0.36,0.0085382513661202,Waspada,0
+2024,Kalimantan Selatan,Multimedia/DKV,Content Creation,1582,10773544,2572,0.48,-0.6257901390644753,Surplus,1
+2024,Kalimantan Timur,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3242,12907317,1400,0.53,0.5681677976557681,Kritis,0
+2024,Kalimantan Timur,Teknik Komputer & Jaringan (TKJ),Cyber Security,2586,9330889,1376,0.38,0.4679040989945862,Waspada,0
+2024,Kalimantan Timur,Rekayasa Perangkat Lunak (RPL),Web Development,2391,13211039,743,0.44,0.6892513592639063,Kritis,0
+2024,Kalimantan Timur,Rekayasa Perangkat Lunak (RPL),Data Analytics,1613,13835616,1716,0.42,-0.0638561686298822,Surplus,0
+2024,Kalimantan Timur,Teknik Otomasi Industri (TOI),Otomasi Industri,1345,13084960,3102,0.39,-1.3063197026022304,Surplus,1
+2024,Kalimantan Timur,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3324,6849949,2994,0.43,0.0992779783393501,Waspada,0
+2024,Kalimantan Timur,Teknik Logistik,Supply Chain Digital,3766,12454502,2593,0.4,0.3114710568242166,Waspada,0
+2024,Kalimantan Timur,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3853,8682149,1071,0.5,0.722034778094991,Kritis,0
+2024,Kalimantan Timur,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1443,13239469,3627,0.75,-1.5135135135135136,Surplus,1
+2024,Kalimantan Timur,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3773,9645710,1510,0.59,0.5997879671349059,Kritis,0
+2024,Kalimantan Timur,Multimedia/DKV,Desain Grafis & UI/UX,1461,12058746,3570,0.6,-1.4435318275154003,Surplus,1
+2024,Kalimantan Timur,Multimedia/DKV,Content Creation,3500,9209352,1929,0.51,0.4488571428571428,Waspada,0
+2024,Kalimantan Utara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3886,13221928,2002,0.49,0.4848172928461142,Waspada,0
+2024,Kalimantan Utara,Teknik Komputer & Jaringan (TKJ),Cyber Security,2144,13552967,1669,0.79,0.2215485074626865,Waspada,0
+2024,Kalimantan Utara,Rekayasa Perangkat Lunak (RPL),Web Development,3262,6108507,1411,0.58,0.5674432863274065,Kritis,0
+2024,Kalimantan Utara,Rekayasa Perangkat Lunak (RPL),Data Analytics,2583,4900734,1345,0.55,0.4792876500193573,Waspada,0
+2024,Kalimantan Utara,Teknik Otomasi Industri (TOI),Otomasi Industri,3644,7651274,2560,0.38,0.2974753018660812,Waspada,0
+2024,Kalimantan Utara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2583,7881091,1230,0.53,0.5238095238095238,Kritis,0
+2024,Kalimantan Utara,Teknik Logistik,Supply Chain Digital,1367,6668670,1860,0.71,-0.3606437454279444,Surplus,1
+2024,Kalimantan Utara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1919,12065406,1754,0.62,0.0859822824387702,Waspada,0
+2024,Kalimantan Utara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2248,9613673,3074,0.74,-0.3674377224199288,Surplus,1
+2024,Kalimantan Utara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1358,12351989,2518,0.45,-0.8541973490427098,Surplus,1
+2024,Kalimantan Utara,Multimedia/DKV,Desain Grafis & UI/UX,3734,12774411,4676,0.62,-0.2522763792179968,Surplus,1
+2024,Kalimantan Utara,Multimedia/DKV,Content Creation,3091,7762732,2617,0.63,0.1533484309285021,Waspada,0
+2024,Sulawesi Utara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2761,6792825,1389,0.79,0.4969214052879391,Waspada,0
+2024,Sulawesi Utara,Teknik Komputer & Jaringan (TKJ),Cyber Security,2182,8915811,1121,0.36,0.4862511457378551,Waspada,0
+2024,Sulawesi Utara,Rekayasa Perangkat Lunak (RPL),Web Development,2110,7974108,1338,0.59,0.3658767772511848,Waspada,0
+2024,Sulawesi Utara,Rekayasa Perangkat Lunak (RPL),Data Analytics,2121,7776031,1854,0.68,0.1258840169731258,Waspada,0
+2024,Sulawesi Utara,Teknik Otomasi Industri (TOI),Otomasi Industri,1686,11312427,2981,0.59,-0.7680901542111507,Surplus,1
+2024,Sulawesi Utara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3571,6740369,2323,0.68,0.3494819378325399,Waspada,0
+2024,Sulawesi Utara,Teknik Logistik,Supply Chain Digital,2084,6017060,1830,0.78,0.1218809980806142,Waspada,0
+2024,Sulawesi Utara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1692,13977960,2122,0.41,-0.2541371158392435,Surplus,1
+2024,Sulawesi Utara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2555,12909698,4414,0.58,-0.7275929549902153,Surplus,1
+2024,Sulawesi Utara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3289,8741106,1397,0.61,0.5752508361204013,Kritis,0
+2024,Sulawesi Utara,Multimedia/DKV,Desain Grafis & UI/UX,1382,12578748,2319,0.45,-0.6780028943560058,Surplus,1
+2024,Sulawesi Utara,Multimedia/DKV,Content Creation,3740,6651317,2882,0.76,0.2294117647058823,Waspada,0
+2024,Sulawesi Tengah,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3563,6746830,1631,0.63,0.5422396856581533,Kritis,0
+2024,Sulawesi Tengah,Teknik Komputer & Jaringan (TKJ),Cyber Security,1738,7414150,1362,0.61,0.2163406214039125,Waspada,0
+2024,Sulawesi Tengah,Rekayasa Perangkat Lunak (RPL),Web Development,2861,9460061,857,0.67,0.7004543865781195,Kritis,0
+2024,Sulawesi Tengah,Rekayasa Perangkat Lunak (RPL),Data Analytics,3301,7405214,1456,0.84,0.5589215389275977,Kritis,0
+2024,Sulawesi Tengah,Teknik Otomasi Industri (TOI),Otomasi Industri,3558,7029180,2178,0.54,0.387858347386172,Waspada,0
+2024,Sulawesi Tengah,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3663,8988891,2802,0.49,0.235053235053235,Waspada,0
+2024,Sulawesi Tengah,Teknik Logistik,Supply Chain Digital,2897,13814653,2302,0.64,0.2053848809112875,Waspada,0
+2024,Sulawesi Tengah,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2413,9295511,1267,0.43,0.4749274761707418,Waspada,0
+2024,Sulawesi Tengah,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3261,7163999,3859,0.46,-0.1833793314934069,Surplus,1
+2024,Sulawesi Tengah,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2769,9025889,2350,0.55,0.1513181654026724,Waspada,0
+2024,Sulawesi Tengah,Multimedia/DKV,Desain Grafis & UI/UX,3063,7892195,2681,0.49,0.1247143323539014,Waspada,0
+2024,Sulawesi Tengah,Multimedia/DKV,Content Creation,2957,9243778,3151,0.64,-0.0656070341562394,Surplus,0
+2024,Sulawesi Selatan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1936,5060116,842,0.64,0.5650826446280992,Kritis,0
+2024,Sulawesi Selatan,Teknik Komputer & Jaringan (TKJ),Cyber Security,2232,9014279,800,0.74,0.6415770609318996,Kritis,0
+2024,Sulawesi Selatan,Rekayasa Perangkat Lunak (RPL),Web Development,3748,6057949,1735,0.75,0.5370864461045891,Kritis,0
+2024,Sulawesi Selatan,Rekayasa Perangkat Lunak (RPL),Data Analytics,3160,12337165,936,0.8,0.7037974683544304,Kritis,0
+2024,Sulawesi Selatan,Teknik Otomasi Industri (TOI),Otomasi Industri,1345,10338166,2182,0.63,-0.6223048327137547,Surplus,1
+2024,Sulawesi Selatan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1962,9684797,2934,0.64,-0.4954128440366973,Surplus,1
+2024,Sulawesi Selatan,Teknik Logistik,Supply Chain Digital,3052,10340070,2974,0.44,0.0255570117955439,Waspada,0
+2024,Sulawesi Selatan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3592,11291878,2462,0.36,0.3145879732739421,Waspada,0
+2024,Sulawesi Selatan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2281,6760826,2006,0.46,0.1205611573871109,Waspada,0
+2024,Sulawesi Selatan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3628,7413275,1831,0.61,0.4953142227122381,Waspada,0
+2024,Sulawesi Selatan,Multimedia/DKV,Desain Grafis & UI/UX,3710,6890212,2155,0.48,0.4191374663072776,Waspada,0
+2024,Sulawesi Selatan,Multimedia/DKV,Content Creation,1635,8971774,2377,0.66,-0.4538226299694189,Surplus,1
+2024,Sulawesi Tenggara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2992,4952999,1309,0.75,0.5625,Kritis,0
+2024,Sulawesi Tenggara,Teknik Komputer & Jaringan (TKJ),Cyber Security,1858,13249975,861,0.54,0.5365984930032293,Kritis,0
+2024,Sulawesi Tenggara,Rekayasa Perangkat Lunak (RPL),Web Development,1680,7654190,903,0.43,0.4625,Waspada,0
+2024,Sulawesi Tenggara,Rekayasa Perangkat Lunak (RPL),Data Analytics,2048,12484365,1000,0.63,0.51171875,Kritis,0
+2024,Sulawesi Tenggara,Teknik Otomasi Industri (TOI),Otomasi Industri,3576,9377033,3115,0.4,0.1289149888143176,Waspada,0
+2024,Sulawesi Tenggara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2308,10062696,2164,0.47,0.0623916811091854,Waspada,0
+2024,Sulawesi Tenggara,Teknik Logistik,Supply Chain Digital,2777,5723780,2864,0.37,-0.0313287720561757,Surplus,0
+2024,Sulawesi Tenggara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3358,6742811,2817,0.65,0.1611078022632519,Waspada,0
+2024,Sulawesi Tenggara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3534,10225838,2049,0.47,0.4202037351443124,Waspada,0
+2024,Sulawesi Tenggara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3606,13280932,1765,0.64,0.5105379922351636,Kritis,0
+2024,Sulawesi Tenggara,Multimedia/DKV,Desain Grafis & UI/UX,3197,9020459,3513,0.58,-0.098842664998436,Surplus,0
+2024,Sulawesi Tenggara,Multimedia/DKV,Content Creation,3412,8815470,3893,0.7,-0.1409730363423212,Surplus,1
+2024,Gorontalo,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3295,8422138,1274,0.59,0.6133535660091047,Kritis,0
+2024,Gorontalo,Teknik Komputer & Jaringan (TKJ),Cyber Security,2414,5737841,1163,0.61,0.5182270091135046,Kritis,0
+2024,Gorontalo,Rekayasa Perangkat Lunak (RPL),Web Development,2428,7643940,1560,0.85,0.357495881383855,Waspada,0
+2024,Gorontalo,Rekayasa Perangkat Lunak (RPL),Data Analytics,2512,8732441,1086,0.54,0.5676751592356688,Kritis,0
+2024,Gorontalo,Teknik Otomasi Industri (TOI),Otomasi Industri,3769,13582882,1286,0.76,0.6587954364552931,Kritis,0
+2024,Gorontalo,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1564,6186980,1851,0.69,-0.1835038363171355,Surplus,1
+2024,Gorontalo,Teknik Logistik,Supply Chain Digital,2555,12300960,1669,0.45,0.3467710371819961,Waspada,0
+2024,Gorontalo,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2472,7840267,2693,0.67,-0.0894012944983818,Surplus,0
+2024,Gorontalo,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1891,5980887,3884,0.66,-1.053939714436806,Surplus,1
+2024,Gorontalo,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2770,9239850,2312,0.58,0.1653429602888086,Waspada,0
+2024,Gorontalo,Multimedia/DKV,Desain Grafis & UI/UX,1484,6696220,3723,0.6,-1.5087601078167117,Surplus,1
+2024,Gorontalo,Multimedia/DKV,Content Creation,2696,13335078,2293,0.66,0.1494807121661721,Waspada,0
+2024,Sulawesi Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2739,6167223,1301,0.63,0.5250091274187659,Kritis,0
+2024,Sulawesi Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,2372,9073445,883,0.81,0.6277403035413154,Kritis,0
+2024,Sulawesi Barat,Rekayasa Perangkat Lunak (RPL),Web Development,3805,11481935,1615,0.43,0.5755584756898817,Kritis,0
+2024,Sulawesi Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,3549,11489142,1174,0.73,0.6692025922795154,Kritis,0
+2024,Sulawesi Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,3620,8446804,2852,0.47,0.2121546961325967,Waspada,0
+2024,Sulawesi Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1487,6349302,2918,0.58,-0.9623402824478816,Surplus,1
+2024,Sulawesi Barat,Teknik Logistik,Supply Chain Digital,3358,5600101,2350,0.41,0.3001786777843955,Waspada,0
+2024,Sulawesi Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1921,10677845,2030,0.44,-0.0567412805830296,Surplus,0
+2024,Sulawesi Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2685,10038561,4196,0.44,-0.562756052141527,Surplus,1
+2024,Sulawesi Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2623,12921757,2437,0.66,0.0709111704155547,Waspada,0
+2024,Sulawesi Barat,Multimedia/DKV,Desain Grafis & UI/UX,3764,13217233,3221,0.55,0.1442614240170031,Waspada,0
+2024,Sulawesi Barat,Multimedia/DKV,Content Creation,1682,6076647,1775,0.63,-0.0552913198573127,Surplus,0
+2024,Maluku,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2001,10216775,1258,0.74,0.3713143428285857,Waspada,0
+2024,Maluku,Teknik Komputer & Jaringan (TKJ),Cyber Security,1729,13504813,956,0.63,0.4470792365529207,Waspada,0
+2024,Maluku,Rekayasa Perangkat Lunak (RPL),Web Development,3569,7944480,1857,0.63,0.4796861866068926,Waspada,0
+2024,Maluku,Rekayasa Perangkat Lunak (RPL),Data Analytics,2811,9628761,1642,0.81,0.415866239772323,Waspada,0
+2024,Maluku,Teknik Otomasi Industri (TOI),Otomasi Industri,2474,10542533,1394,0.38,0.4365400161681487,Waspada,0
+2024,Maluku,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1986,7427144,3074,0.72,-0.5478348439073515,Surplus,1
+2024,Maluku,Teknik Logistik,Supply Chain Digital,2589,9676872,1557,0.61,0.3986095017381228,Waspada,0
+2024,Maluku,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1890,13708385,2346,0.49,-0.2412698412698412,Surplus,1
+2024,Maluku,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1896,7687698,3734,0.52,-0.969409282700422,Surplus,1
+2024,Maluku,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2464,8190742,1888,0.52,0.2337662337662337,Waspada,0
+2024,Maluku,Multimedia/DKV,Desain Grafis & UI/UX,2296,12157804,3857,0.68,-0.6798780487804879,Surplus,1
+2024,Maluku,Multimedia/DKV,Content Creation,2860,7687296,4483,0.67,-0.5674825174825174,Surplus,1
+2024,Maluku Utara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2875,11329845,859,0.68,0.7012173913043478,Kritis,0
+2024,Maluku Utara,Teknik Komputer & Jaringan (TKJ),Cyber Security,1852,12756056,799,0.51,0.5685745140388769,Kritis,0
+2024,Maluku Utara,Rekayasa Perangkat Lunak (RPL),Web Development,2139,8832654,2017,0.66,0.0570359981299672,Waspada,0
+2024,Maluku Utara,Rekayasa Perangkat Lunak (RPL),Data Analytics,2369,11300242,873,0.79,0.6314900802026171,Kritis,0
+2024,Maluku Utara,Teknik Otomasi Industri (TOI),Otomasi Industri,3019,7837099,2707,0.53,0.1033454786353097,Waspada,0
+2024,Maluku Utara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3750,9628426,1223,0.49,0.6738666666666666,Kritis,0
+2024,Maluku Utara,Teknik Logistik,Supply Chain Digital,2420,6712584,1099,0.58,0.5458677685950413,Kritis,0
+2024,Maluku Utara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2493,5025049,2696,0.71,-0.0814279983955074,Surplus,0
+2024,Maluku Utara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2993,5547419,3319,0.52,-0.1089208152355496,Surplus,0
+2024,Maluku Utara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2662,10337803,1766,0.85,0.3365890308039068,Waspada,0
+2024,Maluku Utara,Multimedia/DKV,Desain Grafis & UI/UX,2638,6454753,3446,0.49,-0.3062926459438969,Surplus,1
+2024,Maluku Utara,Multimedia/DKV,Content Creation,1683,13593380,4325,0.39,-1.5698158051099227,Surplus,1
+2024,Papua,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3318,6886213,1213,0.48,0.634418324291742,Kritis,0
+2024,Papua,Teknik Komputer & Jaringan (TKJ),Cyber Security,2340,12113834,817,0.85,0.6508547008547009,Kritis,0
+2024,Papua,Rekayasa Perangkat Lunak (RPL),Web Development,2468,13737492,1087,0.82,0.5595623987034035,Kritis,0
+2024,Papua,Rekayasa Perangkat Lunak (RPL),Data Analytics,1798,9844842,1329,0.82,0.260845383759733,Waspada,0
+2024,Papua,Teknik Otomasi Industri (TOI),Otomasi Industri,2479,8956532,1423,0.81,0.4259782170229931,Waspada,0
+2024,Papua,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2628,11392910,2615,0.43,0.0049467275494672,Waspada,0
+2024,Papua,Teknik Logistik,Supply Chain Digital,3390,10182858,1420,0.43,0.5811209439528023,Kritis,0
+2024,Papua,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1400,11988238,2715,0.49,-0.9392857142857144,Surplus,1
+2024,Papua,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1705,8417556,3740,0.83,-1.1935483870967742,Surplus,1
+2024,Papua,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1500,5058517,1597,0.81,-0.0646666666666666,Surplus,0
+2024,Papua,Multimedia/DKV,Desain Grafis & UI/UX,2224,11228540,4059,0.47,-0.825089928057554,Surplus,1
+2024,Papua,Multimedia/DKV,Content Creation,2422,13936621,2354,0.38,0.028075970272502,Waspada,0
+2024,Papua Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3239,9138843,1416,0.73,0.5628280333436245,Kritis,0
+2024,Papua Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,3215,8917923,2016,0.49,0.3729393468118196,Waspada,0
+2024,Papua Barat,Rekayasa Perangkat Lunak (RPL),Web Development,3226,11103745,1510,0.8,0.5319280843149411,Kritis,0
+2024,Papua Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,3737,8203096,1370,0.41,0.6333957720096334,Kritis,0
+2024,Papua Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,1734,11078602,2398,0.38,-0.3829296424452134,Surplus,1
+2024,Papua Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2784,10943326,1320,0.58,0.5258620689655172,Kritis,0
+2024,Papua Barat,Teknik Logistik,Supply Chain Digital,2533,12212620,1148,0.68,0.5467824713778129,Kritis,0
+2024,Papua Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3814,13454406,2397,0.71,0.3715259570005244,Waspada,0
+2024,Papua Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1841,13344291,2106,0.53,-0.1439435089625203,Surplus,1
+2024,Papua Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2583,9530741,1184,0.8,0.5416182733255904,Kritis,0
+2024,Papua Barat,Multimedia/DKV,Desain Grafis & UI/UX,3357,6706039,1694,0.5,0.495382782246053,Waspada,0
+2024,Papua Barat,Multimedia/DKV,Content Creation,3256,6255465,2132,0.49,0.3452088452088452,Waspada,0
+2024,Papua Selatan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3794,5011830,1773,0.71,0.5326831839746969,Kritis,0
+2024,Papua Selatan,Teknik Komputer & Jaringan (TKJ),Cyber Security,2800,10787029,1975,0.52,0.2946428571428571,Waspada,0
+2024,Papua Selatan,Rekayasa Perangkat Lunak (RPL),Web Development,2736,11316616,1341,0.78,0.5098684210526315,Kritis,0
+2024,Papua Selatan,Rekayasa Perangkat Lunak (RPL),Data Analytics,1926,13710606,1099,0.41,0.4293873312564901,Waspada,0
+2024,Papua Selatan,Teknik Otomasi Industri (TOI),Otomasi Industri,1354,8546169,1502,0.59,-0.1093057607090103,Surplus,0
+2024,Papua Selatan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3198,4875388,1958,0.49,0.3877423389618512,Waspada,0
+2024,Papua Selatan,Teknik Logistik,Supply Chain Digital,3806,12783823,2252,0.82,0.4083026799789805,Waspada,0
+2024,Papua Selatan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2544,12267866,1952,0.65,0.2327044025157232,Waspada,0
+2024,Papua Selatan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2817,10294339,3627,0.67,-0.2875399361022364,Surplus,1
+2024,Papua Selatan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1398,11196567,2062,0.41,-0.474964234620887,Surplus,1
+2024,Papua Selatan,Multimedia/DKV,Desain Grafis & UI/UX,1506,9228690,4561,0.53,-2.0285524568393094,Surplus,1
+2024,Papua Selatan,Multimedia/DKV,Content Creation,2981,7681777,2923,0.52,0.0194565582019456,Waspada,0
+2024,Papua Tengah,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1993,4995246,1572,0.36,0.2112393376818866,Waspada,0
+2024,Papua Tengah,Teknik Komputer & Jaringan (TKJ),Cyber Security,3118,13699691,736,0.82,0.763951250801796,Kritis,0
+2024,Papua Tengah,Rekayasa Perangkat Lunak (RPL),Web Development,2742,5812384,1174,0.63,0.5718453683442742,Kritis,0
+2024,Papua Tengah,Rekayasa Perangkat Lunak (RPL),Data Analytics,2049,5666964,1815,0.7,0.1142020497803806,Waspada,0
+2024,Papua Tengah,Teknik Otomasi Industri (TOI),Otomasi Industri,2084,5663663,2678,0.55,-0.2850287907869481,Surplus,1
+2024,Papua Tengah,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2449,10134538,1397,0.82,0.4295630869742752,Waspada,0
+2024,Papua Tengah,Teknik Logistik,Supply Chain Digital,2070,6006861,2844,0.76,-0.3739130434782609,Surplus,1
+2024,Papua Tengah,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2576,7919612,1634,0.74,0.3656832298136646,Waspada,0
+2024,Papua Tengah,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1836,7691005,4544,0.64,-1.4749455337690631,Surplus,1
+2024,Papua Tengah,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2374,9536319,1362,0.53,0.4262847514743049,Waspada,0
+2024,Papua Tengah,Multimedia/DKV,Desain Grafis & UI/UX,3389,5057681,2249,0.84,0.3363824136913544,Waspada,0
+2024,Papua Tengah,Multimedia/DKV,Content Creation,3110,6854780,4499,0.46,-0.4466237942122186,Surplus,1
+2024,Papua Pegunungan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2461,10152727,1753,0.65,0.287687931735067,Waspada,0
+2024,Papua Pegunungan,Teknik Komputer & Jaringan (TKJ),Cyber Security,2126,11916355,1671,0.7,0.2140169332079021,Waspada,0
+2024,Papua Pegunungan,Rekayasa Perangkat Lunak (RPL),Web Development,2733,10338917,1228,0.68,0.5506769118185144,Kritis,0
+2024,Papua Pegunungan,Rekayasa Perangkat Lunak (RPL),Data Analytics,2676,10359277,748,0.4,0.7204783258594918,Kritis,0
+2024,Papua Pegunungan,Teknik Otomasi Industri (TOI),Otomasi Industri,1383,8058084,2730,0.74,-0.9739696312364424,Surplus,1
+2024,Papua Pegunungan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1738,13393059,3110,0.5,-0.7894131185270425,Surplus,1
+2024,Papua Pegunungan,Teknik Logistik,Supply Chain Digital,3496,5203322,2566,0.47,0.2660183066361556,Waspada,0
+2024,Papua Pegunungan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2568,9110796,1800,0.84,0.2990654205607476,Waspada,0
+2024,Papua Pegunungan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2413,8877716,2271,0.37,0.0588479071694985,Waspada,0
+2024,Papua Pegunungan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3287,6708802,1764,0.57,0.4633404320048677,Waspada,0
+2024,Papua Pegunungan,Multimedia/DKV,Desain Grafis & UI/UX,1407,8968962,3928,0.42,-1.7917555081734189,Surplus,1
+2024,Papua Pegunungan,Multimedia/DKV,Content Creation,1725,11320645,2405,0.38,-0.3942028985507246,Surplus,1
+2024,Papua Barat Daya,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2635,13183190,1765,0.61,0.3301707779886148,Waspada,0
+2024,Papua Barat Daya,Teknik Komputer & Jaringan (TKJ),Cyber Security,2682,12028161,863,0.46,0.6782252050708426,Kritis,0
+2024,Papua Barat Daya,Rekayasa Perangkat Lunak (RPL),Web Development,2723,5580641,750,0.64,0.7245684906353287,Kritis,0
+2024,Papua Barat Daya,Rekayasa Perangkat Lunak (RPL),Data Analytics,3017,6354205,1189,0.64,0.6058999005634736,Kritis,0
+2024,Papua Barat Daya,Teknik Otomasi Industri (TOI),Otomasi Industri,1472,11451143,1760,0.8,-0.1956521739130435,Surplus,1
+2024,Papua Barat Daya,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2084,7351331,2452,0.76,-0.1765834932821497,Surplus,1
+2024,Papua Barat Daya,Teknik Logistik,Supply Chain Digital,3436,8801070,1744,0.8,0.4924330616996507,Waspada,0
+2024,Papua Barat Daya,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2481,7683791,2320,0.53,0.0648931882305521,Waspada,0
+2024,Papua Barat Daya,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2051,11216438,4227,0.38,-1.060945880058508,Surplus,1
+2024,Papua Barat Daya,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2078,5108623,1665,0.43,0.1987487969201155,Waspada,0
+2024,Papua Barat Daya,Multimedia/DKV,Desain Grafis & UI/UX,3506,8096903,1817,0.58,0.4817455790074159,Waspada,0
+2024,Papua Barat Daya,Multimedia/DKV,Content Creation,3224,5947116,2478,0.81,0.2313895781637717,Waspada,0
+2025,Aceh,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1918,11278450,815,0.46,0.5750782064650678,Kritis,0
+2025,Aceh,Teknik Komputer & Jaringan (TKJ),Cyber Security,2267,6071300,1587,0.42,0.2999558888398765,Waspada,0
+2025,Aceh,Rekayasa Perangkat Lunak (RPL),Web Development,3971,10038631,1161,0.76,0.7076303198186855,Kritis,0
+2025,Aceh,Rekayasa Perangkat Lunak (RPL),Data Analytics,3064,8642411,1978,0.74,0.3544386422976501,Waspada,0
+2025,Aceh,Teknik Otomasi Industri (TOI),Otomasi Industri,1841,10927764,1527,0.5,0.1705594785442694,Waspada,0
+2025,Aceh,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2860,10659046,1807,0.36,0.3681818181818181,Waspada,0
+2025,Aceh,Teknik Logistik,Supply Chain Digital,2478,12740879,2950,0.82,-0.1904761904761904,Surplus,1
+2025,Aceh,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3376,12159201,3067,0.56,0.0915284360189573,Waspada,0
+2025,Aceh,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2083,8213654,4783,0.37,-1.2962073931829092,Surplus,1
+2025,Aceh,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,4167,12663020,2190,0.51,0.4744420446364291,Waspada,0
+2025,Aceh,Multimedia/DKV,Desain Grafis & UI/UX,3473,13404008,2250,0.43,0.3521451194932335,Waspada,0
+2025,Aceh,Multimedia/DKV,Content Creation,1909,8124664,4003,0.66,-1.0969093766369826,Surplus,1
+2025,Sumatera Utara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3801,9384258,1692,0.63,0.5548539857932123,Kritis,0
+2025,Sumatera Utara,Teknik Komputer & Jaringan (TKJ),Cyber Security,2979,12917654,1070,0.77,0.6408190668009399,Kritis,0
+2025,Sumatera Utara,Rekayasa Perangkat Lunak (RPL),Web Development,3582,5033782,1335,0.56,0.6273031825795645,Kritis,0
+2025,Sumatera Utara,Rekayasa Perangkat Lunak (RPL),Data Analytics,1811,10912674,1323,0.61,0.2694643843180563,Waspada,0
+2025,Sumatera Utara,Teknik Otomasi Industri (TOI),Otomasi Industri,1990,8535466,1699,0.82,0.1462311557788944,Waspada,0
+2025,Sumatera Utara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),4203,5526331,2163,0.7,0.4853675945753034,Waspada,0
+2025,Sumatera Utara,Teknik Logistik,Supply Chain Digital,1789,11153385,1531,0.53,0.1442146450531023,Waspada,0
+2025,Sumatera Utara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1501,8698606,2845,0.69,-0.8954030646235843,Surplus,1
+2025,Sumatera Utara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2182,7678117,1816,0.77,0.1677360219981668,Waspada,0
+2025,Sumatera Utara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2223,12174626,3126,0.51,-0.4062078272604588,Surplus,1
+2025,Sumatera Utara,Multimedia/DKV,Desain Grafis & UI/UX,3587,10116741,2235,0.54,0.376916643434625,Waspada,0
+2025,Sumatera Utara,Multimedia/DKV,Content Creation,2662,7533460,2206,0.83,0.1712997746055597,Waspada,0
+2025,Sumatera Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1647,8915362,950,0.53,0.4231936854887674,Waspada,0
+2025,Sumatera Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,3733,6290687,1519,0.62,0.5930886686311277,Kritis,0
+2025,Sumatera Barat,Rekayasa Perangkat Lunak (RPL),Web Development,1816,8857025,1510,0.68,0.1685022026431718,Waspada,0
+2025,Sumatera Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,2470,10072864,1319,0.46,0.4659919028340081,Waspada,0
+2025,Sumatera Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,1690,8674910,3087,0.63,-0.8266272189349112,Surplus,1
+2025,Sumatera Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3726,8168045,2962,0.76,0.2050456253354804,Waspada,0
+2025,Sumatera Barat,Teknik Logistik,Supply Chain Digital,2506,9985773,2390,0.43,0.0462889066241021,Waspada,0
+2025,Sumatera Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3918,9017733,2005,0.43,0.4882593159775396,Waspada,0
+2025,Sumatera Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2787,6290036,2002,0.71,0.281664872622892,Waspada,0
+2025,Sumatera Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2682,13744718,1911,0.47,0.2874720357941834,Waspada,0
+2025,Sumatera Barat,Multimedia/DKV,Desain Grafis & UI/UX,3475,12704428,2901,0.83,0.1651798561151079,Waspada,0
+2025,Sumatera Barat,Multimedia/DKV,Content Creation,3941,9002271,1875,0.83,0.5242324283176859,Kritis,0
+2025,Riau,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1645,7122523,1811,0.77,-0.1009118541033434,Surplus,0
+2025,Riau,Teknik Komputer & Jaringan (TKJ),Cyber Security,2160,9546771,1110,0.82,0.4861111111111111,Waspada,0
+2025,Riau,Rekayasa Perangkat Lunak (RPL),Web Development,3572,6556124,961,0.54,0.7309630459126539,Kritis,0
+2025,Riau,Rekayasa Perangkat Lunak (RPL),Data Analytics,3783,5664645,1507,0.66,0.6016389109172614,Kritis,0
+2025,Riau,Teknik Otomasi Industri (TOI),Otomasi Industri,3824,13659690,1940,0.73,0.4926778242677824,Waspada,0
+2025,Riau,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1801,9054849,1789,0.37,0.0066629650194336,Waspada,0
+2025,Riau,Teknik Logistik,Supply Chain Digital,2830,11315350,3140,0.56,-0.1095406360424028,Surplus,0
+2025,Riau,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3397,6415777,1696,0.57,0.5007359434795408,Kritis,0
+2025,Riau,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2282,5773181,3896,0.42,-0.7072743207712533,Surplus,1
+2025,Riau,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2342,6861774,1568,0.35,0.3304867634500427,Waspada,0
+2025,Riau,Multimedia/DKV,Desain Grafis & UI/UX,2053,7590358,4819,0.77,-1.3472966390647831,Surplus,1
+2025,Riau,Multimedia/DKV,Content Creation,4129,11776610,2418,0.4,0.4143860498910148,Waspada,0
+2025,Jambi,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1671,6050632,1485,0.81,0.111310592459605,Waspada,0
+2025,Jambi,Teknik Komputer & Jaringan (TKJ),Cyber Security,2949,13326086,903,0.57,0.6937945066124109,Kritis,0
+2025,Jambi,Rekayasa Perangkat Lunak (RPL),Web Development,1982,8511584,1969,0.59,0.0065590312815338,Waspada,0
+2025,Jambi,Rekayasa Perangkat Lunak (RPL),Data Analytics,3713,7390310,1128,0.49,0.6962025316455697,Kritis,0
+2025,Jambi,Teknik Otomasi Industri (TOI),Otomasi Industri,3441,11114768,2403,0.64,0.3016564952048823,Waspada,0
+2025,Jambi,Teknik Otomasi Industri (TOI),Internet of Things (IoT),4151,13124454,1752,0.79,0.5779330281859792,Kritis,0
+2025,Jambi,Teknik Logistik,Supply Chain Digital,3227,11526451,1561,0.49,0.5162689804772235,Kritis,0
+2025,Jambi,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2503,6344613,2887,0.71,-0.1534159009188973,Surplus,0
+2025,Jambi,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3357,7230525,3432,0.83,-0.0223413762287756,Surplus,0
+2025,Jambi,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2439,7256070,2673,0.47,-0.0959409594095941,Surplus,0
+2025,Jambi,Multimedia/DKV,Desain Grafis & UI/UX,4218,5088859,3204,0.52,0.2403982930298719,Waspada,0
+2025,Jambi,Multimedia/DKV,Content Creation,3408,9549766,2794,0.76,0.1801643192488262,Waspada,0
+2025,Sumatera Selatan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3675,6346236,1624,0.82,0.5580952380952381,Kritis,0
+2025,Sumatera Selatan,Teknik Komputer & Jaringan (TKJ),Cyber Security,2119,13782913,806,0.74,0.6196319018404908,Kritis,0
+2025,Sumatera Selatan,Rekayasa Perangkat Lunak (RPL),Web Development,3468,8559834,1248,0.58,0.6401384083044983,Kritis,0
+2025,Sumatera Selatan,Rekayasa Perangkat Lunak (RPL),Data Analytics,4331,10277093,1404,0.36,0.6758254444700993,Kritis,0
+2025,Sumatera Selatan,Teknik Otomasi Industri (TOI),Otomasi Industri,3857,5460902,2526,0.45,0.3450868550687062,Waspada,0
+2025,Sumatera Selatan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2604,6338112,2476,0.69,0.0491551459293394,Waspada,0
+2025,Sumatera Selatan,Teknik Logistik,Supply Chain Digital,4290,6485996,1200,0.5,0.7202797202797203,Kritis,0
+2025,Sumatera Selatan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3992,6152144,1987,0.44,0.502254509018036,Kritis,0
+2025,Sumatera Selatan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2103,9457851,3411,0.79,-0.6219686162624821,Surplus,1
+2025,Sumatera Selatan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2358,7407411,2259,0.5,0.0419847328244274,Waspada,0
+2025,Sumatera Selatan,Multimedia/DKV,Desain Grafis & UI/UX,3708,6631094,3691,0.81,0.0045846817691477,Waspada,0
+2025,Sumatera Selatan,Multimedia/DKV,Content Creation,2266,11719875,2073,0.43,0.0851721094439541,Waspada,0
+2025,Bengkulu,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2163,6763571,1586,0.63,0.2667591308368007,Waspada,0
+2025,Bengkulu,Teknik Komputer & Jaringan (TKJ),Cyber Security,2260,13785826,1048,0.73,0.536283185840708,Kritis,0
+2025,Bengkulu,Rekayasa Perangkat Lunak (RPL),Web Development,3680,8236252,1205,0.71,0.6725543478260869,Kritis,0
+2025,Bengkulu,Rekayasa Perangkat Lunak (RPL),Data Analytics,3297,5617052,1766,0.55,0.4643615407946618,Waspada,0
+2025,Bengkulu,Teknik Otomasi Industri (TOI),Otomasi Industri,4052,11069324,1483,0.75,0.6340078973346496,Kritis,0
+2025,Bengkulu,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1616,7321279,2211,0.68,-0.3681930693069307,Surplus,1
+2025,Bengkulu,Teknik Logistik,Supply Chain Digital,1507,10919848,1204,0.52,0.2010617120106171,Waspada,0
+2025,Bengkulu,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,4186,6044289,3025,0.47,0.2773530817009078,Waspada,0
+2025,Bengkulu,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2196,8082972,4124,0.77,-0.8779599271402551,Surplus,1
+2025,Bengkulu,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2876,9214473,2415,0.84,0.1602920723226703,Waspada,0
+2025,Bengkulu,Multimedia/DKV,Desain Grafis & UI/UX,1786,7119124,2433,0.48,-0.3622620380739081,Surplus,1
+2025,Bengkulu,Multimedia/DKV,Content Creation,2373,7318970,3066,0.78,-0.2920353982300885,Surplus,1
+2025,Lampung,Teknik Komputer & Jaringan (TKJ),Cloud Computing,4274,6527408,1293,0.37,0.697473093121198,Kritis,0
+2025,Lampung,Teknik Komputer & Jaringan (TKJ),Cyber Security,1584,5855675,1387,0.38,0.1243686868686868,Waspada,0
+2025,Lampung,Rekayasa Perangkat Lunak (RPL),Web Development,2548,12236754,1652,0.56,0.3516483516483517,Waspada,0
+2025,Lampung,Rekayasa Perangkat Lunak (RPL),Data Analytics,3272,6961088,1950,0.55,0.4040342298288508,Waspada,0
+2025,Lampung,Teknik Otomasi Industri (TOI),Otomasi Industri,4134,7120484,2172,0.72,0.4746008708272859,Waspada,0
+2025,Lampung,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2766,5287510,1787,0.36,0.353940708604483,Waspada,0
+2025,Lampung,Teknik Logistik,Supply Chain Digital,4079,12409964,2577,0.51,0.3682275067418485,Waspada,0
+2025,Lampung,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1992,6473879,1337,0.37,0.3288152610441767,Waspada,0
+2025,Lampung,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3556,8093331,1741,0.53,0.5104049493813273,Kritis,0
+2025,Lampung,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1774,12053817,3156,0.84,-0.7790304396843292,Surplus,1
+2025,Lampung,Multimedia/DKV,Desain Grafis & UI/UX,3906,13591690,2658,0.38,0.3195084485407066,Waspada,0
+2025,Lampung,Multimedia/DKV,Content Creation,2027,10022798,4772,0.7,-1.35421805624075,Surplus,1
+2025,Kep. Bangka Belitung,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3018,10015622,751,0.8,0.7511597084161696,Kritis,0
+2025,Kep. Bangka Belitung,Teknik Komputer & Jaringan (TKJ),Cyber Security,2184,13281209,2037,0.61,0.0673076923076923,Waspada,0
+2025,Kep. Bangka Belitung,Rekayasa Perangkat Lunak (RPL),Web Development,3080,5429085,1104,0.38,0.6415584415584416,Kritis,0
+2025,Kep. Bangka Belitung,Rekayasa Perangkat Lunak (RPL),Data Analytics,4013,10871845,709,0.56,0.8233241963618241,Kritis,0
+2025,Kep. Bangka Belitung,Teknik Otomasi Industri (TOI),Otomasi Industri,2716,6789968,2784,0.75,-0.0250368188512518,Surplus,0
+2025,Kep. Bangka Belitung,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3033,10103943,1352,0.51,0.5542367293109133,Kritis,0
+2025,Kep. Bangka Belitung,Teknik Logistik,Supply Chain Digital,1933,6057008,3053,0.76,-0.5794102431453699,Surplus,1
+2025,Kep. Bangka Belitung,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3753,12237693,3088,0.39,0.1771915800692779,Waspada,0
+2025,Kep. Bangka Belitung,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3488,12070518,2920,0.58,0.1628440366972477,Waspada,0
+2025,Kep. Bangka Belitung,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1722,10311934,3114,0.66,-0.8083623693379791,Surplus,1
+2025,Kep. Bangka Belitung,Multimedia/DKV,Desain Grafis & UI/UX,1945,12973321,4270,0.39,-1.1953727506426737,Surplus,1
+2025,Kep. Bangka Belitung,Multimedia/DKV,Content Creation,4211,5803171,2266,0.52,0.4618855378769888,Waspada,0
+2025,Kep. Riau,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2295,12014938,1469,0.38,0.3599128540305011,Waspada,0
+2025,Kep. Riau,Teknik Komputer & Jaringan (TKJ),Cyber Security,3361,7700737,1507,0.73,0.5516215412079738,Kritis,0
+2025,Kep. Riau,Rekayasa Perangkat Lunak (RPL),Web Development,2455,6481076,1260,0.52,0.4867617107942973,Waspada,0
+2025,Kep. Riau,Rekayasa Perangkat Lunak (RPL),Data Analytics,4224,13301598,861,0.7,0.7961647727272727,Kritis,0
+2025,Kep. Riau,Teknik Otomasi Industri (TOI),Otomasi Industri,6538,12141954,2655,0.43,0.593912511471398,Kritis,0
+2025,Kep. Riau,Teknik Otomasi Industri (TOI),Internet of Things (IoT),6377,16996780,1746,0.45,0.7262035439862005,Kritis,2
+2025,Kep. Riau,Teknik Logistik,Supply Chain Digital,5161,23004475,1257,0.73,0.7564425498934315,Kritis,2
+2025,Kep. Riau,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,5559,17974960,2171,0.62,0.6094621334772441,Kritis,2
+2025,Kep. Riau,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,4253,10218952,2073,0.48,0.5125793557488831,Kritis,0
+2025,Kep. Riau,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3581,9064423,2361,0.55,0.3406869589500139,Waspada,0
+2025,Kep. Riau,Multimedia/DKV,Desain Grafis & UI/UX,3782,12981883,1981,0.69,0.4762030671602327,Waspada,0
+2025,Kep. Riau,Multimedia/DKV,Content Creation,3971,6550740,3181,0.76,0.1989423319063208,Waspada,0
+2025,DKI Jakarta,Teknik Komputer & Jaringan (TKJ),Cloud Computing,5609,21788121,1441,0.55,0.7430914601533251,Kritis,2
+2025,DKI Jakarta,Teknik Komputer & Jaringan (TKJ),Cyber Security,10026,16841234,1031,0.75,0.8971673648513864,Kritis,2
+2025,DKI Jakarta,Rekayasa Perangkat Lunak (RPL),Web Development,3684,17901799,1719,0.67,0.5333876221498371,Kritis,2
+2025,DKI Jakarta,Rekayasa Perangkat Lunak (RPL),Data Analytics,7309,22320955,856,0.52,0.8828841154740731,Kritis,2
+2025,DKI Jakarta,Teknik Otomasi Industri (TOI),Otomasi Industri,4211,9677708,1826,0.8,0.5663737829494182,Kritis,0
+2025,DKI Jakarta,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3877,13811501,2085,0.41,0.4622130513283466,Waspada,0
+2025,DKI Jakarta,Teknik Logistik,Supply Chain Digital,4321,8695958,2170,0.56,0.4978014348530433,Waspada,0
+2025,DKI Jakarta,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,4318,11876042,1707,0.79,0.6046780917091246,Kritis,0
+2025,DKI Jakarta,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1804,13639765,3819,0.76,-1.1169623059866962,Surplus,1
+2025,DKI Jakarta,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2307,6065898,2194,0.62,0.0489813610749891,Waspada,0
+2025,DKI Jakarta,Multimedia/DKV,Desain Grafis & UI/UX,3184,6920539,3358,0.55,-0.0546482412060301,Surplus,0
+2025,DKI Jakarta,Multimedia/DKV,Content Creation,2441,12119764,3102,0.68,-0.2707906595657517,Surplus,1
+2025,Jawa Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2060,13506483,1832,0.53,0.1106796116504854,Waspada,0
+2025,Jawa Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,1837,6028337,2089,0.37,-0.1371801850843767,Surplus,0
+2025,Jawa Barat,Rekayasa Perangkat Lunak (RPL),Web Development,3330,13159922,1630,0.39,0.5105105105105106,Kritis,0
+2025,Jawa Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,3261,8490583,1988,0.57,0.3903710518245937,Waspada,0
+2025,Jawa Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,5903,13439806,2840,0.84,0.518888700660681,Kritis,0
+2025,Jawa Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),7614,21230563,2343,0.43,0.6922773837667455,Kritis,2
+2025,Jawa Barat,Teknik Logistik,Supply Chain Digital,4463,16154203,2356,0.68,0.4721039659421913,Waspada,0
+2025,Jawa Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,7429,22574689,1555,0.6,0.7906851527796473,Kritis,2
+2025,Jawa Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2793,13984536,2290,0.49,0.1800930898675259,Waspada,0
+2025,Jawa Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2894,7771783,2380,0.73,0.1776088458880442,Waspada,0
+2025,Jawa Barat,Multimedia/DKV,Desain Grafis & UI/UX,1935,11324559,1921,0.56,0.007235142118863,Waspada,0
+2025,Jawa Barat,Multimedia/DKV,Content Creation,4186,7198083,1828,0.66,0.5633062589584329,Kritis,0
+2025,Jawa Tengah,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3355,8709439,1971,0.6,0.4125186289120715,Waspada,0
+2025,Jawa Tengah,Teknik Komputer & Jaringan (TKJ),Cyber Security,2570,10427745,712,0.45,0.7229571984435798,Kritis,0
+2025,Jawa Tengah,Rekayasa Perangkat Lunak (RPL),Web Development,3258,12088538,873,0.56,0.7320441988950276,Kritis,0
+2025,Jawa Tengah,Rekayasa Perangkat Lunak (RPL),Data Analytics,2631,6449729,1481,0.76,0.4370961611554542,Waspada,0
+2025,Jawa Tengah,Teknik Otomasi Industri (TOI),Otomasi Industri,4165,7899555,2036,0.4,0.5111644657863146,Kritis,0
+2025,Jawa Tengah,Teknik Otomasi Industri (TOI),Internet of Things (IoT),4316,5316409,2538,0.36,0.4119555143651529,Waspada,0
+2025,Jawa Tengah,Teknik Logistik,Supply Chain Digital,4285,9276321,1409,0.48,0.6711785297549592,Kritis,0
+2025,Jawa Tengah,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3692,13933790,2963,0.79,0.197453954496208,Waspada,0
+2025,Jawa Tengah,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2745,11539013,3841,0.45,-0.3992714025500911,Surplus,1
+2025,Jawa Tengah,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2881,9619075,1682,0.46,0.4161749392572023,Waspada,0
+2025,Jawa Tengah,Multimedia/DKV,Desain Grafis & UI/UX,3228,9542297,2619,0.75,0.1886617100371747,Waspada,0
+2025,Jawa Tengah,Multimedia/DKV,Content Creation,3754,12874037,4278,0.78,-0.1395844432605221,Surplus,1
+2025,DI Yogyakarta,Teknik Komputer & Jaringan (TKJ),Cloud Computing,9591,29328252,1495,0.38,0.8441247002398081,Kritis,2
+2025,DI Yogyakarta,Teknik Komputer & Jaringan (TKJ),Cyber Security,9776,11770068,2101,0.84,0.7850859247135843,Kritis,0
+2025,DI Yogyakarta,Rekayasa Perangkat Lunak (RPL),Web Development,4127,24184147,1540,0.83,0.6268475890477344,Kritis,2
+2025,DI Yogyakarta,Rekayasa Perangkat Lunak (RPL),Data Analytics,6368,16716602,1557,0.51,0.7554962311557789,Kritis,2
+2025,DI Yogyakarta,Teknik Otomasi Industri (TOI),Otomasi Industri,2139,8014850,1608,0.79,0.2482468443197756,Waspada,0
+2025,DI Yogyakarta,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1903,13674883,1275,0.65,0.3300052548607461,Waspada,0
+2025,DI Yogyakarta,Teknik Logistik,Supply Chain Digital,1687,12156061,1787,0.35,-0.0592768227622999,Surplus,0
+2025,DI Yogyakarta,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2223,7304594,1828,0.56,0.1776878092667566,Waspada,0
+2025,DI Yogyakarta,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,4223,8367675,4375,0.42,-0.0359933696424342,Surplus,0
+2025,DI Yogyakarta,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3845,7214802,2288,0.46,0.4049414824447334,Waspada,0
+2025,DI Yogyakarta,Multimedia/DKV,Desain Grafis & UI/UX,1990,5243031,2337,0.82,-0.1743718592964824,Surplus,1
+2025,DI Yogyakarta,Multimedia/DKV,Content Creation,2891,11244345,4471,0.66,-0.546523694223452,Surplus,1
+2025,Jawa Timur,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2724,8716643,1673,0.68,0.3858296622613803,Waspada,0
+2025,Jawa Timur,Teknik Komputer & Jaringan (TKJ),Cyber Security,4049,10310493,914,0.38,0.7742652506791801,Kritis,0
+2025,Jawa Timur,Rekayasa Perangkat Lunak (RPL),Web Development,1713,9655920,1925,0.46,-0.1237594862813777,Surplus,0
+2025,Jawa Timur,Rekayasa Perangkat Lunak (RPL),Data Analytics,2983,11167712,831,0.77,0.7214213878645659,Kritis,0
+2025,Jawa Timur,Teknik Otomasi Industri (TOI),Otomasi Industri,6168,13040693,1470,0.41,0.7616731517509727,Kritis,0
+2025,Jawa Timur,Teknik Otomasi Industri (TOI),Internet of Things (IoT),7424,10460856,1441,0.52,0.8058997844827587,Kritis,0
+2025,Jawa Timur,Teknik Logistik,Supply Chain Digital,4361,21698061,2696,0.65,0.3817931667048842,Waspada,2
+2025,Jawa Timur,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,6577,27579510,1091,0.52,0.8341188991941615,Kritis,2
+2025,Jawa Timur,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1686,8384197,2570,0.36,-0.5243179122182681,Surplus,1
+2025,Jawa Timur,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3078,5111955,1642,0.39,0.4665367121507472,Waspada,0
+2025,Jawa Timur,Multimedia/DKV,Desain Grafis & UI/UX,3689,9733594,4472,0.77,-0.2122526429926809,Surplus,1
+2025,Jawa Timur,Multimedia/DKV,Content Creation,1981,9635451,3340,0.67,-0.6860171630489652,Surplus,1
+2025,Banten,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1579,12123494,926,0.69,0.4135528815706143,Waspada,0
+2025,Banten,Teknik Komputer & Jaringan (TKJ),Cyber Security,4196,9498713,1894,0.44,0.5486177311725453,Kritis,0
+2025,Banten,Rekayasa Perangkat Lunak (RPL),Web Development,2524,8590328,1349,0.67,0.4655309033280507,Waspada,0
+2025,Banten,Rekayasa Perangkat Lunak (RPL),Data Analytics,2106,10089730,1100,0.83,0.4776828110161443,Waspada,0
+2025,Banten,Teknik Otomasi Industri (TOI),Otomasi Industri,2693,9237610,2492,0.75,0.0746379502413665,Waspada,0
+2025,Banten,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3825,7126133,1740,0.64,0.5450980392156862,Kritis,0
+2025,Banten,Teknik Logistik,Supply Chain Digital,4002,12748140,1213,0.36,0.6969015492253873,Kritis,0
+2025,Banten,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3284,9805858,2069,0.38,0.3699756394640682,Waspada,0
+2025,Banten,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2630,11828722,2988,0.77,-0.1361216730038023,Surplus,1
+2025,Banten,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2207,13775708,2971,0.52,-0.3461712732215677,Surplus,1
+2025,Banten,Multimedia/DKV,Desain Grafis & UI/UX,3913,6677971,3484,0.78,0.1096345514950166,Waspada,0
+2025,Banten,Multimedia/DKV,Content Creation,4087,11614612,3520,0.42,0.1387325666748226,Waspada,0
+2025,Bali,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2359,7666757,726,0.85,0.692242475625265,Kritis,0
+2025,Bali,Teknik Komputer & Jaringan (TKJ),Cyber Security,3503,10713318,1435,0.61,0.59035112760491,Kritis,0
+2025,Bali,Rekayasa Perangkat Lunak (RPL),Web Development,2739,8451387,1296,0.85,0.5268346111719606,Kritis,0
+2025,Bali,Rekayasa Perangkat Lunak (RPL),Data Analytics,1719,6511672,1010,0.75,0.4124490983129726,Waspada,0
+2025,Bali,Teknik Otomasi Industri (TOI),Otomasi Industri,3495,7828631,3188,0.77,0.0878397711015736,Waspada,0
+2025,Bali,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2708,12032212,1238,0.82,0.5428360413589365,Kritis,0
+2025,Bali,Teknik Logistik,Supply Chain Digital,3262,11784297,1289,0.48,0.6048436541998774,Kritis,0
+2025,Bali,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3180,8601250,3132,0.49,0.0150943396226415,Waspada,0
+2025,Bali,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3935,4819675,2750,0.81,0.301143583227446,Waspada,0
+2025,Bali,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,5828,16917756,1792,0.67,0.6925188743994509,Kritis,2
+2025,Bali,Multimedia/DKV,Desain Grafis & UI/UX,3985,7038057,4025,0.57,-0.0100376411543287,Surplus,0
+2025,Bali,Multimedia/DKV,Content Creation,1740,5366088,4440,0.71,-1.5517241379310345,Surplus,1
+2025,Nusa Tenggara Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3764,11358947,1341,0.8,0.6437300743889479,Kritis,0
+2025,Nusa Tenggara Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,3619,5458003,1840,0.63,0.4915722575297043,Waspada,0
+2025,Nusa Tenggara Barat,Rekayasa Perangkat Lunak (RPL),Web Development,4336,9828035,1919,0.41,0.5574261992619927,Kritis,0
+2025,Nusa Tenggara Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,2342,8834464,1790,0.4,0.2356959863364645,Waspada,0
+2025,Nusa Tenggara Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,3980,6892101,1814,0.58,0.5442211055276381,Kritis,0
+2025,Nusa Tenggara Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3251,13303967,1679,0.67,0.4835435250692095,Waspada,0
+2025,Nusa Tenggara Barat,Teknik Logistik,Supply Chain Digital,2940,11562126,1196,0.8,0.5931972789115646,Kritis,0
+2025,Nusa Tenggara Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2657,11142057,2002,0.71,0.2465186300338727,Waspada,0
+2025,Nusa Tenggara Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2597,6312760,4720,0.5,-0.8174817096649981,Surplus,1
+2025,Nusa Tenggara Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1691,8357689,1125,0.35,0.3347131874630396,Waspada,0
+2025,Nusa Tenggara Barat,Multimedia/DKV,Desain Grafis & UI/UX,4052,6663236,3742,0.51,0.0765054294175715,Waspada,0
+2025,Nusa Tenggara Barat,Multimedia/DKV,Content Creation,3661,5250930,2389,0.48,0.3474460529909861,Waspada,0
+2025,Nusa Tenggara Timur,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3819,12202324,2087,0.4,0.4535218643623985,Waspada,0
+2025,Nusa Tenggara Timur,Teknik Komputer & Jaringan (TKJ),Cyber Security,1962,12746232,1262,0.78,0.3567787971457696,Waspada,0
+2025,Nusa Tenggara Timur,Rekayasa Perangkat Lunak (RPL),Web Development,2013,10203252,877,0.76,0.5643318430203677,Kritis,0
+2025,Nusa Tenggara Timur,Rekayasa Perangkat Lunak (RPL),Data Analytics,2596,8951785,1872,0.61,0.2788906009244992,Waspada,0
+2025,Nusa Tenggara Timur,Teknik Otomasi Industri (TOI),Otomasi Industri,2228,13977376,1431,0.76,0.3577199281867145,Waspada,0
+2025,Nusa Tenggara Timur,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2222,5006487,2840,0.54,-0.2781278127812781,Surplus,1
+2025,Nusa Tenggara Timur,Teknik Logistik,Supply Chain Digital,2197,8084321,3201,0.84,-0.4569868001820664,Surplus,1
+2025,Nusa Tenggara Timur,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,4061,5478841,1868,0.47,0.5400147746860379,Kritis,0
+2025,Nusa Tenggara Timur,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,4079,10220712,3677,0.59,0.0985535670507477,Waspada,0
+2025,Nusa Tenggara Timur,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1706,7245840,2094,0.4,-0.227432590855803,Surplus,1
+2025,Nusa Tenggara Timur,Multimedia/DKV,Desain Grafis & UI/UX,3512,10251973,4228,0.76,-0.2038724373576309,Surplus,1
+2025,Nusa Tenggara Timur,Multimedia/DKV,Content Creation,2544,6237188,2535,0.57,0.0035377358490566,Waspada,0
+2025,Kalimantan Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3393,5338645,2069,0.39,0.3902151488358384,Waspada,0
+2025,Kalimantan Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,2827,9325121,1071,0.85,0.6211531659002476,Kritis,0
+2025,Kalimantan Barat,Rekayasa Perangkat Lunak (RPL),Web Development,1608,11711855,1811,0.58,-0.1262437810945273,Surplus,1
+2025,Kalimantan Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,2026,11350091,2048,0.51,-0.0108588351431391,Surplus,0
+2025,Kalimantan Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,1913,12590574,2304,0.51,-0.2043910088865656,Surplus,1
+2025,Kalimantan Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3121,12170683,1841,0.69,0.4101249599487344,Waspada,0
+2025,Kalimantan Barat,Teknik Logistik,Supply Chain Digital,2194,11239522,2536,0.65,-0.1558796718322698,Surplus,1
+2025,Kalimantan Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3629,9185010,2305,0.42,0.3648387985670984,Waspada,0
+2025,Kalimantan Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3786,9791536,1830,0.72,0.5166402535657686,Kritis,0
+2025,Kalimantan Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2677,8271750,1844,0.64,0.3111692192753081,Waspada,0
+2025,Kalimantan Barat,Multimedia/DKV,Desain Grafis & UI/UX,2146,12870297,3607,0.64,-0.6808014911463187,Surplus,1
+2025,Kalimantan Barat,Multimedia/DKV,Content Creation,2840,5665139,2065,0.73,0.272887323943662,Waspada,0
+2025,Kalimantan Tengah,Teknik Komputer & Jaringan (TKJ),Cloud Computing,4291,12343159,1962,0.56,0.5427639244931252,Kritis,0
+2025,Kalimantan Tengah,Teknik Komputer & Jaringan (TKJ),Cyber Security,4290,7701717,1972,0.72,0.5403263403263403,Kritis,0
+2025,Kalimantan Tengah,Rekayasa Perangkat Lunak (RPL),Web Development,2456,7011738,1182,0.74,0.5187296416938111,Kritis,0
+2025,Kalimantan Tengah,Rekayasa Perangkat Lunak (RPL),Data Analytics,4098,7933211,2058,0.36,0.4978038067349927,Waspada,0
+2025,Kalimantan Tengah,Teknik Otomasi Industri (TOI),Otomasi Industri,2579,12240449,2277,0.5,0.11709965102753,Waspada,0
+2025,Kalimantan Tengah,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3698,9871915,1198,0.66,0.6760411032990806,Kritis,0
+2025,Kalimantan Tengah,Teknik Logistik,Supply Chain Digital,3443,12182003,3107,0.47,0.0975893116468196,Waspada,0
+2025,Kalimantan Tengah,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,4307,4821253,3230,0.41,0.2500580450429533,Waspada,0
+2025,Kalimantan Tengah,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3737,12490840,4589,0.61,-0.227990366604228,Surplus,1
+2025,Kalimantan Tengah,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2977,6074634,1756,0.59,0.4101444407121263,Waspada,0
+2025,Kalimantan Tengah,Multimedia/DKV,Desain Grafis & UI/UX,1496,13311383,2102,0.49,-0.4050802139037433,Surplus,1
+2025,Kalimantan Tengah,Multimedia/DKV,Content Creation,2077,12401748,1840,0.39,0.1141068849301877,Waspada,0
+2025,Kalimantan Selatan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2608,10981422,849,0.77,0.6744631901840491,Kritis,0
+2025,Kalimantan Selatan,Teknik Komputer & Jaringan (TKJ),Cyber Security,3927,12440167,1006,0.64,0.7438248026483321,Kritis,0
+2025,Kalimantan Selatan,Rekayasa Perangkat Lunak (RPL),Web Development,3016,12122153,1009,0.47,0.6654509283819628,Kritis,0
+2025,Kalimantan Selatan,Rekayasa Perangkat Lunak (RPL),Data Analytics,2067,6056715,1168,0.5,0.4349298500241896,Waspada,0
+2025,Kalimantan Selatan,Teknik Otomasi Industri (TOI),Otomasi Industri,2538,12146562,2749,0.37,-0.0831363278171788,Surplus,0
+2025,Kalimantan Selatan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1807,8602986,1540,0.49,0.1477587161040398,Waspada,0
+2025,Kalimantan Selatan,Teknik Logistik,Supply Chain Digital,1536,5171616,2053,0.48,-0.3365885416666667,Surplus,1
+2025,Kalimantan Selatan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,4299,13963766,1880,0.68,0.5626889974412654,Kritis,0
+2025,Kalimantan Selatan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2246,13170043,3633,0.8,-0.6175422974176313,Surplus,1
+2025,Kalimantan Selatan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2339,7643236,2435,0.62,-0.0410431808465156,Surplus,0
+2025,Kalimantan Selatan,Multimedia/DKV,Desain Grafis & UI/UX,3696,10835218,1702,0.72,0.5395021645021645,Kritis,0
+2025,Kalimantan Selatan,Multimedia/DKV,Content Creation,3406,11023754,2227,0.39,0.3461538461538461,Waspada,0
+2025,Kalimantan Timur,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2916,9026156,953,0.58,0.6731824417009602,Kritis,0
+2025,Kalimantan Timur,Teknik Komputer & Jaringan (TKJ),Cyber Security,3856,10555892,2066,0.7,0.4642116182572614,Waspada,0
+2025,Kalimantan Timur,Rekayasa Perangkat Lunak (RPL),Web Development,2317,12783372,2030,0.63,0.1238670694864048,Waspada,0
+2025,Kalimantan Timur,Rekayasa Perangkat Lunak (RPL),Data Analytics,3078,9027995,2079,0.82,0.3245614035087719,Waspada,0
+2025,Kalimantan Timur,Teknik Otomasi Industri (TOI),Otomasi Industri,2883,12137694,2639,0.36,0.0846340617412417,Waspada,0
+2025,Kalimantan Timur,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3464,13721334,1726,0.81,0.5017321016166282,Kritis,0
+2025,Kalimantan Timur,Teknik Logistik,Supply Chain Digital,3422,5039968,2475,0.73,0.2767387492694331,Waspada,0
+2025,Kalimantan Timur,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,4269,7392536,1206,0.5,0.7174982431482783,Kritis,0
+2025,Kalimantan Timur,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3892,10304381,1806,0.69,0.5359712230215827,Kritis,0
+2025,Kalimantan Timur,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1768,8678363,2265,0.82,-0.2811085972850679,Surplus,1
+2025,Kalimantan Timur,Multimedia/DKV,Desain Grafis & UI/UX,1815,5827557,1629,0.58,0.1024793388429752,Waspada,0
+2025,Kalimantan Timur,Multimedia/DKV,Content Creation,3294,10698885,2465,0.54,0.2516697024893746,Waspada,0
+2025,Kalimantan Utara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,4287,12401723,1571,0.75,0.6335432703522277,Kritis,0
+2025,Kalimantan Utara,Teknik Komputer & Jaringan (TKJ),Cyber Security,3246,10488238,1769,0.64,0.4550215650030807,Waspada,0
+2025,Kalimantan Utara,Rekayasa Perangkat Lunak (RPL),Web Development,3207,11503560,958,0.52,0.7012784533832241,Kritis,0
+2025,Kalimantan Utara,Rekayasa Perangkat Lunak (RPL),Data Analytics,3036,5333634,1347,0.38,0.5563241106719368,Kritis,0
+2025,Kalimantan Utara,Teknik Otomasi Industri (TOI),Otomasi Industri,2215,13378845,2689,0.39,-0.2139954853273137,Surplus,1
+2025,Kalimantan Utara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2709,9423636,1923,0.43,0.2901439645625692,Waspada,0
+2025,Kalimantan Utara,Teknik Logistik,Supply Chain Digital,4219,12356855,1940,0.6,0.5401753970135104,Kritis,0
+2025,Kalimantan Utara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3026,6206368,2118,0.58,0.3000660938532716,Waspada,0
+2025,Kalimantan Utara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2703,10585267,3947,0.82,-0.4602293747687754,Surplus,1
+2025,Kalimantan Utara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1537,10770226,1818,0.41,-0.1828236824983734,Surplus,1
+2025,Kalimantan Utara,Multimedia/DKV,Desain Grafis & UI/UX,2656,6931018,3628,0.56,-0.3659638554216867,Surplus,1
+2025,Kalimantan Utara,Multimedia/DKV,Content Creation,2597,8289429,2619,0.66,-0.0084713130535232,Surplus,0
+2025,Sulawesi Utara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3563,5094746,1547,0.57,0.5658153241650294,Kritis,0
+2025,Sulawesi Utara,Teknik Komputer & Jaringan (TKJ),Cyber Security,2641,10232019,872,0.55,0.6698220371071564,Kritis,0
+2025,Sulawesi Utara,Rekayasa Perangkat Lunak (RPL),Web Development,3909,8602177,1644,0.76,0.5794320798158097,Kritis,0
+2025,Sulawesi Utara,Rekayasa Perangkat Lunak (RPL),Data Analytics,2085,13312558,1764,0.72,0.1539568345323741,Waspada,0
+2025,Sulawesi Utara,Teknik Otomasi Industri (TOI),Otomasi Industri,3915,5953224,3101,0.83,0.2079182630906768,Waspada,0
+2025,Sulawesi Utara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3574,7450235,2367,0.44,0.3377168438724118,Waspada,0
+2025,Sulawesi Utara,Teknik Logistik,Supply Chain Digital,4027,9540039,2661,0.65,0.3392103302706729,Waspada,0
+2025,Sulawesi Utara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2546,7103554,1490,0.41,0.4147682639434407,Waspada,0
+2025,Sulawesi Utara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2034,8820120,2946,0.5,-0.4483775811209439,Surplus,1
+2025,Sulawesi Utara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3767,7476517,2992,0.55,0.2057340058401911,Waspada,0
+2025,Sulawesi Utara,Multimedia/DKV,Desain Grafis & UI/UX,4203,12131006,3124,0.37,0.2567213894837021,Waspada,0
+2025,Sulawesi Utara,Multimedia/DKV,Content Creation,2147,13129442,2661,0.45,-0.2394038192827201,Surplus,1
+2025,Sulawesi Tengah,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3144,13631924,1213,0.46,0.6141857506361323,Kritis,0
+2025,Sulawesi Tengah,Teknik Komputer & Jaringan (TKJ),Cyber Security,3991,5275595,751,0.65,0.8118266098722124,Kritis,0
+2025,Sulawesi Tengah,Rekayasa Perangkat Lunak (RPL),Web Development,2170,6948091,1022,0.4,0.5290322580645161,Kritis,0
+2025,Sulawesi Tengah,Rekayasa Perangkat Lunak (RPL),Data Analytics,2534,6560462,1785,0.52,0.2955801104972376,Waspada,0
+2025,Sulawesi Tengah,Teknik Otomasi Industri (TOI),Otomasi Industri,4286,8858848,1394,0.62,0.6747550163322446,Kritis,0
+2025,Sulawesi Tengah,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2287,5609178,2870,0.69,-0.254919108001749,Surplus,1
+2025,Sulawesi Tengah,Teknik Logistik,Supply Chain Digital,3305,11734106,2772,0.8,0.1612708018154311,Waspada,0
+2025,Sulawesi Tengah,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3195,12286327,2895,0.44,0.0938967136150234,Waspada,0
+2025,Sulawesi Tengah,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,1662,10307683,3946,0.42,-1.3742478941034897,Surplus,1
+2025,Sulawesi Tengah,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2108,11217954,1682,0.78,0.2020872865275142,Waspada,0
+2025,Sulawesi Tengah,Multimedia/DKV,Desain Grafis & UI/UX,3573,5821469,3327,0.65,0.0688497061293031,Waspada,0
+2025,Sulawesi Tengah,Multimedia/DKV,Content Creation,4025,10579277,4134,0.61,-0.0270807453416149,Surplus,0
+2025,Sulawesi Selatan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3385,7692371,1362,0.73,0.5976366322008863,Kritis,0
+2025,Sulawesi Selatan,Teknik Komputer & Jaringan (TKJ),Cyber Security,3848,11770199,1447,0.6,0.623960498960499,Kritis,0
+2025,Sulawesi Selatan,Rekayasa Perangkat Lunak (RPL),Web Development,1821,5263001,1081,0.39,0.4063701263042284,Waspada,0
+2025,Sulawesi Selatan,Rekayasa Perangkat Lunak (RPL),Data Analytics,3658,7622136,1562,0.75,0.5729907053034445,Kritis,0
+2025,Sulawesi Selatan,Teknik Otomasi Industri (TOI),Otomasi Industri,1589,5315693,1368,0.76,0.1390811831340465,Waspada,0
+2025,Sulawesi Selatan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3284,5214994,2757,0.5,0.1604750304506699,Waspada,0
+2025,Sulawesi Selatan,Teknik Logistik,Supply Chain Digital,2701,10512044,1354,0.82,0.4987041836356904,Waspada,0
+2025,Sulawesi Selatan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3545,10253174,1356,0.51,0.6174894217207334,Kritis,0
+2025,Sulawesi Selatan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2271,5964795,4667,0.84,-1.055041831792162,Surplus,1
+2025,Sulawesi Selatan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2462,11930030,2993,0.55,-0.2156783103168155,Surplus,1
+2025,Sulawesi Selatan,Multimedia/DKV,Desain Grafis & UI/UX,1980,7209381,3348,0.37,-0.6909090909090909,Surplus,1
+2025,Sulawesi Selatan,Multimedia/DKV,Content Creation,3298,11826492,2587,0.58,0.2155852031534263,Waspada,0
+2025,Sulawesi Tenggara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1841,7743295,2061,0.64,-0.1195002715915263,Surplus,0
+2025,Sulawesi Tenggara,Teknik Komputer & Jaringan (TKJ),Cyber Security,4136,6157453,1670,0.36,0.5962282398452611,Kritis,0
+2025,Sulawesi Tenggara,Rekayasa Perangkat Lunak (RPL),Web Development,3008,4895028,2078,0.59,0.3091755319148936,Waspada,0
+2025,Sulawesi Tenggara,Rekayasa Perangkat Lunak (RPL),Data Analytics,3672,9119453,1580,0.74,0.5697167755991286,Kritis,0
+2025,Sulawesi Tenggara,Teknik Otomasi Industri (TOI),Otomasi Industri,1537,10245315,2009,0.36,-0.3070917371502927,Surplus,1
+2025,Sulawesi Tenggara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1571,7812359,2056,0.79,-0.3087205601527689,Surplus,1
+2025,Sulawesi Tenggara,Teknik Logistik,Supply Chain Digital,3498,12004776,1990,0.76,0.4311034877072613,Waspada,0
+2025,Sulawesi Tenggara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3540,12257918,2358,0.63,0.3338983050847458,Waspada,0
+2025,Sulawesi Tenggara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3072,8425654,3466,0.57,-0.1282552083333333,Surplus,0
+2025,Sulawesi Tenggara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2833,11712880,2932,0.36,-0.0349452876809036,Surplus,0
+2025,Sulawesi Tenggara,Multimedia/DKV,Desain Grafis & UI/UX,3587,8131106,1897,0.38,0.4711458042932813,Waspada,0
+2025,Sulawesi Tenggara,Multimedia/DKV,Content Creation,2452,5222381,2037,0.44,0.1692495921696574,Waspada,0
+2025,Gorontalo,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3453,13022462,1926,0.54,0.4422241529105126,Waspada,0
+2025,Gorontalo,Teknik Komputer & Jaringan (TKJ),Cyber Security,2306,9700164,1715,0.8,0.2562879444926279,Waspada,0
+2025,Gorontalo,Rekayasa Perangkat Lunak (RPL),Web Development,3133,11136356,956,0.37,0.6948611554420683,Kritis,0
+2025,Gorontalo,Rekayasa Perangkat Lunak (RPL),Data Analytics,3950,5201067,966,0.57,0.7554430379746836,Kritis,0
+2025,Gorontalo,Teknik Otomasi Industri (TOI),Otomasi Industri,4022,12540616,2041,0.64,0.492541024365987,Waspada,0
+2025,Gorontalo,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3878,10089283,2030,0.6,0.4765342960288808,Waspada,0
+2025,Gorontalo,Teknik Logistik,Supply Chain Digital,2799,9789904,1102,0.46,0.6062879599857092,Kritis,0
+2025,Gorontalo,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2084,5112023,1492,0.67,0.2840690978886756,Waspada,0
+2025,Gorontalo,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2766,12622636,3317,0.57,-0.1992046276211135,Surplus,1
+2025,Gorontalo,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1912,7977902,2276,0.56,-0.1903765690376569,Surplus,1
+2025,Gorontalo,Multimedia/DKV,Desain Grafis & UI/UX,3282,7120715,1851,0.78,0.4360146252285192,Waspada,0
+2025,Gorontalo,Multimedia/DKV,Content Creation,4242,6699054,4377,0.65,-0.0318246110325318,Surplus,0
+2025,Sulawesi Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,2140,6350184,855,0.36,0.6004672897196262,Kritis,0
+2025,Sulawesi Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,2303,12953113,1005,0.64,0.5636126791141989,Kritis,0
+2025,Sulawesi Barat,Rekayasa Perangkat Lunak (RPL),Web Development,2503,13277276,1002,0.76,0.5996803835397523,Kritis,0
+2025,Sulawesi Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,1990,11761383,1738,0.65,0.1266331658291457,Waspada,0
+2025,Sulawesi Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,3438,12760339,2783,0.49,0.1905177428737638,Waspada,0
+2025,Sulawesi Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2112,7570742,2663,0.46,-0.2608901515151515,Surplus,1
+2025,Sulawesi Barat,Teknik Logistik,Supply Chain Digital,3320,12096405,3056,0.54,0.0795180722891566,Waspada,0
+2025,Sulawesi Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,4120,13459522,3229,0.57,0.2162621359223301,Waspada,0
+2025,Sulawesi Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3366,10436289,4701,0.42,-0.3966131907308378,Surplus,1
+2025,Sulawesi Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3976,5834586,1919,0.45,0.517354124748491,Kritis,0
+2025,Sulawesi Barat,Multimedia/DKV,Desain Grafis & UI/UX,3204,10347094,3197,0.65,0.0021847690387016,Waspada,0
+2025,Sulawesi Barat,Multimedia/DKV,Content Creation,4291,6884504,3918,0.55,0.0869261244465159,Waspada,0
+2025,Maluku,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3888,7821372,1114,0.83,0.713477366255144,Kritis,0
+2025,Maluku,Teknik Komputer & Jaringan (TKJ),Cyber Security,2453,9654042,1467,0.54,0.4019567876070118,Waspada,0
+2025,Maluku,Rekayasa Perangkat Lunak (RPL),Web Development,3335,8630121,786,0.42,0.7643178410794603,Kritis,0
+2025,Maluku,Rekayasa Perangkat Lunak (RPL),Data Analytics,2033,6153324,2051,0.35,-0.0088539104771273,Surplus,0
+2025,Maluku,Teknik Otomasi Industri (TOI),Otomasi Industri,2561,8172455,1566,0.39,0.3885201093322921,Waspada,0
+2025,Maluku,Teknik Otomasi Industri (TOI),Internet of Things (IoT),1662,10834722,3108,0.61,-0.8700361010830325,Surplus,1
+2025,Maluku,Teknik Logistik,Supply Chain Digital,3292,11810131,2395,0.79,0.2724787363304982,Waspada,0
+2025,Maluku,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3778,9196720,3079,0.48,0.1850185283218634,Waspada,0
+2025,Maluku,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2356,11669989,3265,0.81,-0.3858234295415959,Surplus,1
+2025,Maluku,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,4087,6169277,1985,0.37,0.514313677514069,Kritis,0
+2025,Maluku,Multimedia/DKV,Desain Grafis & UI/UX,2925,11522090,3965,0.8,-0.3555555555555555,Surplus,1
+2025,Maluku,Multimedia/DKV,Content Creation,1987,13022502,1801,0.67,0.0936084549572219,Waspada,0
+2025,Maluku Utara,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1909,9260276,702,0.52,0.6322682032477737,Kritis,0
+2025,Maluku Utara,Teknik Komputer & Jaringan (TKJ),Cyber Security,3928,8875837,1566,0.77,0.6013238289205702,Kritis,0
+2025,Maluku Utara,Rekayasa Perangkat Lunak (RPL),Web Development,3206,10894645,1369,0.58,0.5729881472239551,Kritis,0
+2025,Maluku Utara,Rekayasa Perangkat Lunak (RPL),Data Analytics,4315,5985111,916,0.43,0.7877172653534183,Kritis,0
+2025,Maluku Utara,Teknik Otomasi Industri (TOI),Otomasi Industri,3437,12532752,2687,0.75,0.2182135583357579,Waspada,0
+2025,Maluku Utara,Teknik Otomasi Industri (TOI),Internet of Things (IoT),2548,6300948,2718,0.61,-0.0667189952904238,Surplus,0
+2025,Maluku Utara,Teknik Logistik,Supply Chain Digital,1713,10637196,2090,0.43,-0.2200817279626386,Surplus,1
+2025,Maluku Utara,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3629,12895213,3039,0.84,0.162579222926426,Waspada,0
+2025,Maluku Utara,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2611,10357805,3181,0.82,-0.2183071620068939,Surplus,1
+2025,Maluku Utara,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1488,8514379,2757,0.81,-0.8528225806451613,Surplus,1
+2025,Maluku Utara,Multimedia/DKV,Desain Grafis & UI/UX,2210,10645447,4176,0.63,-0.8895927601809954,Surplus,1
+2025,Maluku Utara,Multimedia/DKV,Content Creation,4012,6349420,2684,0.69,0.3310069790628115,Waspada,0
+2025,Papua,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3908,13112934,1644,0.69,0.579324462640737,Kritis,0
+2025,Papua,Teknik Komputer & Jaringan (TKJ),Cyber Security,2711,8604409,826,0.52,0.6953153817779417,Kritis,0
+2025,Papua,Rekayasa Perangkat Lunak (RPL),Web Development,2131,13835949,1891,0.59,0.1126231816048803,Waspada,0
+2025,Papua,Rekayasa Perangkat Lunak (RPL),Data Analytics,3181,11081646,864,0.68,0.7283872995913235,Kritis,0
+2025,Papua,Teknik Otomasi Industri (TOI),Otomasi Industri,2388,11226288,1869,0.52,0.2173366834170854,Waspada,0
+2025,Papua,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3608,6964563,1958,0.84,0.4573170731707317,Waspada,0
+2025,Papua,Teknik Logistik,Supply Chain Digital,3572,9981377,1427,0.83,0.6005039193729004,Kritis,0
+2025,Papua,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3158,9208285,2744,0.71,0.1310956301456618,Waspada,0
+2025,Papua,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2007,12812369,3977,0.41,-0.9815645241654212,Surplus,1
+2025,Papua,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3687,9004955,1542,0.47,0.5817737998372661,Kritis,0
+2025,Papua,Multimedia/DKV,Desain Grafis & UI/UX,2647,9859667,4147,0.38,-0.5666792595391009,Surplus,1
+2025,Papua,Multimedia/DKV,Content Creation,2896,7785696,2995,0.75,-0.0341850828729281,Surplus,0
+2025,Papua Barat,Teknik Komputer & Jaringan (TKJ),Cloud Computing,1898,13626233,1466,0.64,0.2276080084299262,Waspada,0
+2025,Papua Barat,Teknik Komputer & Jaringan (TKJ),Cyber Security,4077,6172070,1272,0.59,0.6880058866813834,Kritis,0
+2025,Papua Barat,Rekayasa Perangkat Lunak (RPL),Web Development,3711,7393726,2003,0.74,0.4602533009970358,Waspada,0
+2025,Papua Barat,Rekayasa Perangkat Lunak (RPL),Data Analytics,1616,13041353,1384,0.49,0.1435643564356435,Waspada,0
+2025,Papua Barat,Teknik Otomasi Industri (TOI),Otomasi Industri,3772,9250252,3006,0.67,0.2030752916224814,Waspada,0
+2025,Papua Barat,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3086,13294630,2343,0.85,0.2407647440051847,Waspada,0
+2025,Papua Barat,Teknik Logistik,Supply Chain Digital,3426,10455635,2518,0.69,0.2650321074138937,Waspada,0
+2025,Papua Barat,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2266,5270529,2199,0.77,0.0295675198587819,Waspada,0
+2025,Papua Barat,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3506,4961445,3970,0.59,-0.132344552196235,Surplus,0
+2025,Papua Barat,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1966,11294503,1840,0.55,0.0640895218718209,Waspada,0
+2025,Papua Barat,Multimedia/DKV,Desain Grafis & UI/UX,2856,5484029,3055,0.66,-0.0696778711484593,Surplus,0
+2025,Papua Barat,Multimedia/DKV,Content Creation,1819,13698978,3990,0.75,-1.193512919186366,Surplus,1
+2025,Papua Selatan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,4317,11781440,2016,0.76,0.5330090340514246,Kritis,0
+2025,Papua Selatan,Teknik Komputer & Jaringan (TKJ),Cyber Security,3965,8108505,1934,0.56,0.5122320302648171,Kritis,0
+2025,Papua Selatan,Rekayasa Perangkat Lunak (RPL),Web Development,3199,13001428,1191,0.54,0.6276961550484527,Kritis,0
+2025,Papua Selatan,Rekayasa Perangkat Lunak (RPL),Data Analytics,2198,5008944,1799,0.75,0.1815286624203821,Waspada,0
+2025,Papua Selatan,Teknik Otomasi Industri (TOI),Otomasi Industri,2914,12376472,1352,0.44,0.5360329444063143,Kritis,0
+2025,Papua Selatan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3262,9001765,2224,0.7,0.3182096873083997,Waspada,0
+2025,Papua Selatan,Teknik Logistik,Supply Chain Digital,3743,7694100,2843,0.68,0.2404488378306171,Waspada,0
+2025,Papua Selatan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3299,5997162,2366,0.62,0.2828129736283722,Waspada,0
+2025,Papua Selatan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3572,11474851,4646,0.66,-0.3006718924972004,Surplus,1
+2025,Papua Selatan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,1951,11783604,2180,0.85,-0.1173757047667862,Surplus,0
+2025,Papua Selatan,Multimedia/DKV,Desain Grafis & UI/UX,3994,6697501,2473,0.67,0.3808212318477716,Waspada,0
+2025,Papua Selatan,Multimedia/DKV,Content Creation,3830,10929439,2297,0.55,0.4002610966057441,Waspada,0
+2025,Papua Tengah,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3315,8685250,1811,0.36,0.4536953242835596,Waspada,0
+2025,Papua Tengah,Teknik Komputer & Jaringan (TKJ),Cyber Security,2949,9702059,1728,0.82,0.4140386571719227,Waspada,0
+2025,Papua Tengah,Rekayasa Perangkat Lunak (RPL),Web Development,2807,10373694,760,0.57,0.7292483078019237,Kritis,0
+2025,Papua Tengah,Rekayasa Perangkat Lunak (RPL),Data Analytics,4054,5519407,760,0.85,0.8125308337444499,Kritis,0
+2025,Papua Tengah,Teknik Otomasi Industri (TOI),Otomasi Industri,4018,5128821,1149,0.53,0.7140368342458935,Kritis,0
+2025,Papua Tengah,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3515,8687008,1756,0.68,0.5004267425320057,Kritis,0
+2025,Papua Tengah,Teknik Logistik,Supply Chain Digital,3897,11525275,2093,0.7,0.4629201950218116,Waspada,0
+2025,Papua Tengah,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,1495,13257411,2565,0.53,-0.7157190635451505,Surplus,1
+2025,Papua Tengah,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,3460,5607744,2413,0.52,0.3026011560693641,Waspada,0
+2025,Papua Tengah,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,3732,13434012,2684,0.43,0.2808145766345123,Waspada,0
+2025,Papua Tengah,Multimedia/DKV,Desain Grafis & UI/UX,2620,5588443,2125,0.45,0.1889312977099236,Waspada,0
+2025,Papua Tengah,Multimedia/DKV,Content Creation,3276,8065962,4668,0.64,-0.4249084249084249,Surplus,1
+2025,Papua Pegunungan,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3350,10552613,1747,0.38,0.4785074626865672,Waspada,0
+2025,Papua Pegunungan,Teknik Komputer & Jaringan (TKJ),Cyber Security,2201,6133572,1632,0.36,0.2585188550658791,Waspada,0
+2025,Papua Pegunungan,Rekayasa Perangkat Lunak (RPL),Web Development,3242,10437025,1180,0.59,0.636027143738433,Kritis,0
+2025,Papua Pegunungan,Rekayasa Perangkat Lunak (RPL),Data Analytics,3302,9501669,1723,0.63,0.4781950333131435,Waspada,0
+2025,Papua Pegunungan,Teknik Otomasi Industri (TOI),Otomasi Industri,2519,8125315,1776,0.52,0.2949583167923779,Waspada,0
+2025,Papua Pegunungan,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3531,10017092,1343,0.63,0.6196544888133673,Kritis,0
+2025,Papua Pegunungan,Teknik Logistik,Supply Chain Digital,3222,8620887,3047,0.45,0.0543140906269397,Waspada,0
+2025,Papua Pegunungan,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,2036,7646274,1398,0.66,0.3133595284872298,Waspada,0
+2025,Papua Pegunungan,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,4119,10788099,4231,0.57,-0.0271910657926681,Surplus,0
+2025,Papua Pegunungan,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2948,12671917,2897,0.48,0.0172998643147896,Waspada,0
+2025,Papua Pegunungan,Multimedia/DKV,Desain Grafis & UI/UX,4013,10246079,2637,0.38,0.3428856217293795,Waspada,0
+2025,Papua Pegunungan,Multimedia/DKV,Content Creation,3046,8678450,1663,0.61,0.4540380827314511,Waspada,0
+2025,Papua Barat Daya,Teknik Komputer & Jaringan (TKJ),Cloud Computing,3770,7833349,1797,0.51,0.523342175066313,Kritis,0
+2025,Papua Barat Daya,Teknik Komputer & Jaringan (TKJ),Cyber Security,3782,11207054,909,0.6,0.75965097831835,Kritis,0
+2025,Papua Barat Daya,Rekayasa Perangkat Lunak (RPL),Web Development,1790,5582877,876,0.47,0.5106145251396648,Kritis,0
+2025,Papua Barat Daya,Rekayasa Perangkat Lunak (RPL),Data Analytics,4177,11099492,1334,0.36,0.6806320325592531,Kritis,0
+2025,Papua Barat Daya,Teknik Otomasi Industri (TOI),Otomasi Industri,3634,10849850,2891,0.4,0.2044578976334617,Waspada,0
+2025,Papua Barat Daya,Teknik Otomasi Industri (TOI),Internet of Things (IoT),3376,13356255,1911,0.44,0.4339454976303317,Waspada,0
+2025,Papua Barat Daya,Teknik Logistik,Supply Chain Digital,3101,12536484,2568,0.38,0.1718800386971944,Waspada,0
+2025,Papua Barat Daya,Teknik Kendaraan Ringan (TKR),Mekanik Otomotif,3883,6381420,2758,0.66,0.2897244398660829,Waspada,0
+2025,Papua Barat Daya,Akuntansi & Keuangan Lembaga (AKL),Akuntansi Digital,2504,11752314,3667,0.53,-0.4644568690095846,Surplus,1
+2025,Papua Barat Daya,Usaha Layanan Pariwisata (ULP),Hospitality & Pariwisata,2661,7879042,1450,0.61,0.4550920706501315,Waspada,0
+2025,Papua Barat Daya,Multimedia/DKV,Desain Grafis & UI/UX,3443,11338655,2755,0.67,0.1998257333720592,Waspada,0
+2025,Papua Barat Daya,Multimedia/DKV,Content Creation,2431,11698046,1866,0.36,0.23241464417935,Waspada,0
