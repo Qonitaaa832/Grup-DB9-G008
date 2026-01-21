@@ -1,6 +1,8 @@
 streamlit
 pandas
+numpy
+scikit-learn
 folium
 streamlit-folium
-scikit-learn
-numpy
+matplotlib
+reportlab
